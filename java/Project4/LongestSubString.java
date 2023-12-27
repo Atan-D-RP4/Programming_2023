@@ -18,6 +18,7 @@ class LongestSubString
             max_len = Math.max(max_len, j + i - 1);
             charIndex[main.charAt(j)] = j + 1;
         }
+        ip.close();
     System.out.println("Max Length: " + max_len);
     }
 }
