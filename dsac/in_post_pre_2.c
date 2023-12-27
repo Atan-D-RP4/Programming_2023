@@ -52,7 +52,7 @@ int main(int argc, char* argv[])
         printf("Failed to allocate Memory\n");
 
     printf("Expression Evaluation: %d\n", eval_postfix(postfix_expr));
-    printf("Expression Evaluation: %d\n", eval_postfix(postfix_expr_mine));
+    printf("Expression Evaluation: %d\n", eval_postfix(postfix_expr));
     free(postfix_expr);
     free(prefix_expr);
     return 0;
