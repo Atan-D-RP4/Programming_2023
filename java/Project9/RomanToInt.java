@@ -11,5 +11,6 @@ class RomanToInt
         string.roman = ip.nextLine();
         int romanValue = string.romanToInt();
         System.out.println("Decimal Value: " + romanValue);
+        ip.close();
     }
 }
