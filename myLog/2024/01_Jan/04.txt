@@ -59,3 +59,9 @@ Thu Jan  4 22:57:03 IST 2024
 
     Now, I'm going to finish up my observation and go to sleep. Praying to God that I don't bomb this
     exam same as did the other one.    
+
+    Turns out that I'm going to be spending about an hour trying to get a Swing Application to run
+    on my system and show me a window. I failed.
+
+Fri Jan  5 00:53:00 IST 2024
+    I'm going to sleep.
