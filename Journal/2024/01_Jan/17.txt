@@ -1,0 +1,40 @@
+Wed Jan 17 23:37:09 IST 2024
+    Okay today went well, I think. I woke up pretty early, around 7:00AM and freshened 
+    up straight away. Woke Mom and Dad once, they didn't really get up.
+
+    Considering the happenings of last night, I decided that they should sleep it off 
+    some more and didn't wake them up again until 8:30AM.
+
+    In the meanwhile, I made myself some coffee, watched some YouTube and other stuff for
+    a bit, and then attempted to put a Flask Application on the AWS instance again.
+
+    The folks were a bit frantic when they woke up. Mom kinda made me coffee again, which 
+    I saved for the evening. Dad left for work. I stood watch and ate some Puri's for 
+    breakfast. Helped around with some other chores.
+
+    At around 11:00AM, I gave up trying web-hosting a Flask App with AWS as a lost cause.
+    Stupid paths not working and the server using old installations, for some reason...?
+
+    Watched a CS50 Short on Python, read some Percy Jackson fanfiction for a while, and then
+    helped cook lunch. More like heated up yesterdays leftovers. Ate lunch late.
+
+    Praneeth cleaned up the curries, so I helped Mom cook some fried potatoe curry. He also 
+    hasn't showered yet, even now and seems to have decided to skip it for today. To each their 
+    own I guess.
+
+    The rest of the day progressed in the same vein. Help with chores, drink my coffee that I 
+    saved in the evening, waste time on the Net, watch a drama, play chess, play Hades, help cook, 
+    eat dinner, waste time again.
+
+    An interesting thing I did do today though is a bunch of type-racing. I have an average 
+    typing speed of 50 Words per minute if I know what I'm typing, 40 otherwise.
+
+    Also, Oshi no Ko and Jujutsu Kaisen released new chapters today. That was quite exciting.
+    Still waiting on One Piece though.   
+
+    I've decide that January is a lost cause when it comes to staying clean. I held out on the 14th 
+    and 15th, but relapsed on the 16th and 17th again. February is the only hope.
+
+    I did only five push-ups today. No other exercise though. No studying either. FML.
+
+Wed Jan 17 23:57:17 IST 2024
