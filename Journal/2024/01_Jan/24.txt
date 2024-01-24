@@ -1,0 +1,34 @@
+Thu Jan 25 00:25:21 IST 2024
+    Today was... something. Let's get into it. See what I can call it at the end of this.
+
+    I woke up at around 9:15AM, brushed my teeth, drank my coffee, mourned the lack of honey in my diet,
+    and sat down to wile away the day.
+
+    I started watching YouTube for a while, checking for updates on things I keep track of. Then an hour 
+    or so in and I start playing Hacknet. I didn't stop until I finished the game sometime in the afternoon.
+
+    Mom came over in the middle of her supervision of the servants doing housework to hadn me some of her 
+    oats for breakfast. I feasted on that, which I usually deny but I was a little desperate.
+
+    In the middle I went over to the kitchen to help cook lunch. I ate whilst I was playing the game. 
+
+    Finally showered around like 4:30PM or something since I skipped doing it in the morning. Played some 
+    TypeRacer. I'm amost hitting 50WPM consistently, and 65WPM being my top speed. Will work to improve it.
+
+    I continued to wile the time away with YouTube and fanfics until I finally got tired of that and picked 
+    myself up for studying. I finished one unit of CO out the 5 on syllabus for us. Reeeal assuring that.
+
+    Anyway I accepted that I was gonna be screwed for tomorrow's exam and went to over to the kitchen to help
+    out with making dinner. That took a minute and involved lots of dicing ingredients and tears in my eyes, 
+    beacause onions.
+
+    I ate dinner passing time. Continued doing so afterwards. And am now writing this log. 
+
+    I did mess around with .json files in my cs50 codespaces just to see if I can mess with the thing. Didn't 
+    really do anything, that.
+
+    Now I'm off to bed since I'm late enough for that as it is and I still have to wake up pretty early to get 
+    to college.
+
+Thu Jan 25 00:40:27 IST 2024    
+    fin.
