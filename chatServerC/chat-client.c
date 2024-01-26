@@ -1,4 +1,5 @@
 #include <arpa/inet.h>
+#include <errno.h>
 #include <poll.h>
 #include <unistd.h>
 #include <sys/types.h>
@@ -16,7 +17,12 @@ int main()
         0
     };
 
-    connect(sockFD, (struct sockaddr *)&address, sizeof(address));
+    if (connect(sockFD, (struct sockaddr *)&address, sizeof(address)) == -1) // Connecting to the server.
+    {
+        fprintf(stderr, "Connecting Failed! errorno: %d (%s)\n", errno, strerror(errno));
+        close(sockFD);
+        return 1;
+    }
 
     struct pollfd fds[2] = {
         {
@@ -31,23 +37,37 @@ int main()
         }
     };
 
-    char buffer[256] = { 0 };
-    poll(fds, 2, -1);
 
     for (;;)
     {
+        char buffer[256] = { 0 };
+        poll(fds, 2, -1);
         if (fds[0].revents & POLLIN)
         {
             // read(0, buffer, sizeof(buffer));
             if (fgets(buffer, sizeof(buffer), stdin) == NULL)
                 break;
-            send(sockFD, buffer, sizeof(buffer), 0);
+            ssize_t bytesSent = send(sockFD, buffer, sizeof(buffer), 0);
+
+            if (bytesSent == -1)
+            {
+                fprintf(stderr, "Sending Failed! errorno: %d (%s)\n", errno, strerror(errno));
+                break;
+            }
         }
         else if (fds[1].revents & POLLIN)
         {
-            if (recv(sockFD, buffer, sizeof(buffer), 0) <= 0)
+            // if (recv(clientFD, buffer, sizeof(buffer), 0) == 0)
+            //    return 0;
+            ssize_t bytesReceived = recv(sockFD, buffer, sizeof(buffer), 0);
+            if (bytesReceived <= 0)
+            {
+                (bytesReceived == 0 ? fprintf(stderr, "Client Disconnected!\n") : fprintf(stderr, "Client Receiving Failed! errorno: %d (%s)\n", errno, strerror(errno)));
                 break;
-            printf("%s\n", buffer);
+            }
+            
+            buffer[bytesReceived] = '\0';
+            printf("%s\n", buffer);     
         }
     }
     close(sockFD);
