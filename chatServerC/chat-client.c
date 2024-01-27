@@ -17,7 +17,7 @@ int main()
         0
     };
 
-    if (connect(sockFD, (struct sockaddr *)&address, sizeof(address)) == -1) // Connecting to the server.
+    if (connect(sockFD, (struct sockaddr *)&address, sizeof(address)) < 0) // Connecting to the server.
     {
         fprintf(stderr, "Connecting Failed! errorno: %d (%s)\n", errno, strerror(errno));
         close(sockFD);
@@ -47,7 +47,7 @@ int main()
             // read(0, buffer, sizeof(buffer));
             if (fgets(buffer, sizeof(buffer), stdin) == NULL)
                 break;
-            ssize_t bytesSent = send(sockFD, buffer, sizeof(buffer), 0);
+            ssize_t bytesSent = send(sockFD, buffer, sizeof(buffer) - 1, 0);
 
             if (bytesSent == -1)
             {
@@ -59,7 +59,7 @@ int main()
         {
             // if (recv(clientFD, buffer, sizeof(buffer), 0) == 0)
             //    return 0;
-            ssize_t bytesReceived = recv(sockFD, buffer, sizeof(buffer), 0);
+            ssize_t bytesReceived = recv(sockFD, buffer, sizeof(buffer) - 1, 0);
             if (bytesReceived <= 0)
             {
                 (bytesReceived == 0 ? fprintf(stderr, "Client Disconnected!\n") : fprintf(stderr, "Client Receiving Failed! errorno: %d (%s)\n", errno, strerror(errno)));

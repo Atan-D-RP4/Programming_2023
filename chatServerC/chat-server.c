@@ -29,7 +29,7 @@ int main()
         return 1;
     }
         
-    if (listen(sockFD, 10) == -1); // Listening for incoming connections.
+    if (listen(sockFD, 10) < 0); // Listening for incoming connections.
     {   
         fprintf(stderr, "Listen Failed! errorno: %d (%s)\n", errno, strerror(errno));
     }
@@ -65,7 +65,7 @@ int main()
             // read(0, buffer, sizeof(buffer));
             if (fgets(buffer, sizeof(buffer), stdin) == NULL)
                 break;
-            ssize_t bytesSent = send(clientFD, buffer, sizeof(buffer), 0);
+            ssize_t bytesSent = send(clientFD, buffer, sizeof(buffer) - 1, 0);
             if (bytesSent == -1)
             {
                 fprintf(stderr, "Sending Failed! errorno: %d (%s)\n", errno, strerror(errno));
@@ -76,7 +76,7 @@ int main()
         {
             // if (recv(clientFD, buffer, sizeof(buffer), 0) == 0)
             //    return 0;
-            ssize_t bytesReceived = recv(clientFD, buffer, sizeof(buffer), 0);
+            ssize_t bytesReceived = recv(clientFD, buffer, sizeof(buffer) - 1, 0);
             if (bytesReceived <= 0)
             {
                 (bytesReceived == 0 ? fprintf(stderr, "Client Disconnected!\n") : fprintf(stderr, "Client Receiving Failed! errorno: %d (%s)\n", errno, strerror(errno)));
