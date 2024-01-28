@@ -1,0 +1,27 @@
+Sun Jan 28 23:31:03 IST 2024
+    This is very late. But I'm not going to put if off anymore or it will never get done at all.
+
+    Waking up this day was... a terrifying because I did at 8:00AM and thought I still had an exam to write. It was
+    such a relief to know that I'd forgotten that today was a holiday on account of Jagan and the exam was postponed.
+
+    I went back to sleep. Woke up again at 9:00AM, had nothing for breakfast except coffee and skipped showering.
+
+    I built a bunch of Minimalist C projects over the course of the day. Attempted to figure out SSHing into a AWS 
+    server, did not work out that. Solved a LeetCode problem, a Hackerrank Python problem, made sure I included error
+    checking in those C projects I was working on and ensured they actually worked.
+
+    Read a 'The Boys' - 'Percy Jackson' in the afternoon. Spent a while on YouTube and forums, played a bit of chess in
+    the late afternoon and did not do well at it. Read the previous days unread newsletters. Read the new chapter of 'My
+    Hero Academia'.
+
+    Tried to get style50 and debug50 to work on my personal codespace to no avail.
+
+    I did not manage any exercise this day. Zero, zip, nada. No progress on the assignment I still haven't finished and no
+    studying for the exam.
+
+    I made sure to go to bed early at least at 11:30PM considering I had an exam the next day.
+
+    That's about everything of note I can remember in regards to this day.
+
+Sun Jan 28 23:48:52 IST 2024
+    fin.
