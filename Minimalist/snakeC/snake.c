@@ -15,8 +15,18 @@ int main()
         return errno;
     }
     
-    keypad(win, TRUE);
-    nodelay(win, TRUE);
+    if (keypad(win, TRUE) != OK)
+    {
+        fprintf(stderr, "Setting Keypad Mode failed!: %d (%s)\n", errno, strerror(errno));
+        endwin();
+        return errno;
+    }
+    if (nodelay(win, TRUE) != OK)
+    {
+        fprintf(stderr, "Setting Nodelay Mode failed!: %d (%s)\n", errno, strerror(errno));
+        endwin();
+        return errno;
+    }
     
     int posX = 0, posY = 0;
     int foodX = rand() % 20, foodY = rand() % 20;
