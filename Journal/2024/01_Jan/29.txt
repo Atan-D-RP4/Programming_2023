@@ -24,6 +24,8 @@ Tue Jan 30 00:14:32 IST 2024
     I spent the rest of the evening trying to make a GUI application work with X11 display to no avail. At least I 
     enjoyed the leftover Fried Rice and curry Mom that brought home.
 
+    I also did 5 proper push-ups, some stretching and plancked for a 30 or so seconds.
+
     That's it. More succinct than I imagined but I have to get to sleep now. It's already very late and I have to get
     to college tomorrow.
 
