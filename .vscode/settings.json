@@ -5,6 +5,8 @@
         "poll.h": "c",
         "ssl.h": "c",
         "errno.h": "c",
-        "curses.h": "c"
+        "curses.h": "c",
+        "xlib.h": "c",
+        "x.h": "c"
     }
 }
