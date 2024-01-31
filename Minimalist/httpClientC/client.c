@@ -18,7 +18,7 @@ int main()
 
     struct sockaddr_in address = {
         .sin_family = AF_INET,
-        .sin_port = htons(443),
+        .sin_port = htons(443), // 443 is the default TCP/UDP port
         .sin_addr.s_addr = inet_addr("8.8.8.8") // Public IP address to dns.google.com
      // .sin_addr.s_addr = inet_addr("142.250.70.46") // Public IP address to google.com
     };
