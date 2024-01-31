@@ -1,0 +1,85 @@
+Wed Jan 31 21:24:48 IST 2024
+    I'm doing this early today, as I should make a habit of doing so. I can write just a short update before going to sleep or
+    just as I go about it.
+
+    I woke up early today. Like 7:30AM or so. Considering how late to bed I was last night and how drowsy I was the whole day
+    I really thought I wouldn't be conscious so early. So I got out of bed right away instead of just snoozing off again cause
+    my body would just hurt more.
+
+    Have mentioned how long it has been since I felt truly, physically, comfortable in my own skin? It's been a whhiiile.
+
+    Anyway, so I went through my morning routine of brush teeth, eat honey, drink water, have a pot of coffee. I showered early
+    too instead of putting off until the late afternoon like I've been these days.
+
+    Got on YouTube, went through some technical videos, some content from Dr. Peterson, browsed some forums, checked for updates
+    on fics and manga I keep eye on. There was one from the Percy Jackson fics I track that I read through and enjoyed immensly.
+
+    Finally, finally got SSH for an AWS server to work. I did not have the right .pem key-pair file on my system.
+
+    Then I checked out Emacs, what LISP is, some research into how I could configure my PC workstation. Cleaned up the PC I'm
+    currently using.
+
+    Built another Minimalist C project. An HTTPS server this time that I really did not get to work. I tried to do it on an AWS
+    server but it required jumping through a bunch of hoops that were not successful for me.
+
+    Did some more reseach on how to use SSH. It's actually when I figured out how to get it working. Reading AWS user manual would
+    have served me well previously instead of asking ChatGPT everything.
+
+    Between doing this Mom called on to help with cooking Lunch. I burnt the Dal a little bit but it actually turned out alright.
+    The cabbage curry turned out even better though it had a salt imbalance going on which was not something I think I could help.
+
+    She also trapped in that part of the house while she had the servants mop the way around. Which pissed me off but I pushed it 
+    down as I usually do and stayed reasonable. I took the opportunity to do some exercise. Got in 5 good push-ups, a couple Indian
+    push-ups that were really something else, whoo!, and 20 tip-toe squats and 5 slanted push-ups too. Also managed another two 
+    push-ups after lunch too. Did not stretch though.
+
+    Started on an episode of Dr. Peterson's Podcast with the comedian Matt Rife as the guest of honor. That was a lot of fun and 
+    took me straight into the evening to finish.
+
+    Praneeth went out on to the Gym and to do some more stuff on Mom's behest for the house stuff. She made watch the door because
+    she can't be bothered to close it properly. I wouldn't close it myself either when it is demanded that I do full shower after.
+
+    Her system for that, or a lack thereof, really pisses me off. So I stood watch, used the opportunity to retreive some books from
+    my bag that I forget to bring out. Browsed Instagram for a while and found a new book to add to my Drive.
+
+    Had my evening coffee while doing that too. Got off there when Dad came back. Warmed up his tea and got it to him as well.
+
+    Then I started on the parts of the DMS assignment that I hadn't wrote yet. Finished two Units of it by 8:40PM or so.
+
+    JJK just dropped the new chapter sometime in the evening and it is everything I needed from it but did not know I did. Like,
+    holy shit, it's Yuta + Rika and Yuji vs Sukuna in Yuta's Domain Expansion!!! The Domain also gives heavy 'Ichigo's Bankai 
+    Training' vibes and I'm loving it!!
+
+    Mom just transferred 10,000/- to my bank account for safe-keeping. I'm the most trusted person in the family when it comes
+    to money and I feel conflicted about it. My spending is just non-existent but Mom and Praneeth are impulse spenders, with
+    Dad always stuck financing them.
+
+    Now, I have to make a payment on behalf of Mom to the Datta Peettham Trust with her Money. So I'll do that in a sec.
+
+Wed Jan 31 22:14:11 IST 2024
+    Haven't finished that donation thing yet cause I am in the middle of writing this log. But I just went surfing through my saved 
+    posts on Instagram and I really need to order that mess into their proper collections.
+
+    Also I am now having dinner so that donations thing is put off again.
+
+Wed Jan 31 23:57:34 IST 2024
+    I did put if off. Mom forgot about for the moment. The only reason I still remember this donation thing is because I mention it
+    here.
+
+    I ate dinner to a Primagen video about the flaws of JavaScript. And holy shit is that language fucking insane.
+
+    I'm watching another of his videos about the long-standing OOP problems. His videos are really fun. You can feel the guy knows his
+    stuff and I mean he is a very experienced Web-dev who worked at Netflix so yeah that tracks.
+
+    Anyway I'm going to sleep with a full Unit of assignment and prep for DMS left unfinished. It's late and I have to wake up early
+    tomorrow morning.
+
+    Also, as an aside, this log is probably the longest one I've written. It's 77 lines right here. Fitting since this is the last of the
+    month of January. I'll do a review of the entire months log tomorrow. And sort out Instagram collections. That's very important to me.
+
+    Alright, I'm done here. Goodnight.
+
+Thu Feb  1 00:04:37 IST 2024
+    fin. 
+    
+
