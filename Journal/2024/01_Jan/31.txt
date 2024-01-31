@@ -71,6 +71,9 @@ Wed Jan 31 23:57:34 IST 2024
     I'm watching another of his videos about the long-standing OOP problems. His videos are really fun. You can feel the guy knows his
     stuff and I mean he is a very experienced Web-dev who worked at Netflix so yeah that tracks.
 
+    Forgot to mention this earlier but I realized that I'm pushing executables into the repository from my working codespace. I really
+    should not be doing that. So I figured out a .gitignore file for it.
+
     Anyway I'm going to sleep with a full Unit of assignment and prep for DMS left unfinished. It's late and I have to wake up early
     tomorrow morning.
 
