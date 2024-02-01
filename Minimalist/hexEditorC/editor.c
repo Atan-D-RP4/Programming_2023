@@ -5,7 +5,7 @@
 
 #define LINE_SIZE 16
 
-void printHex(unsigned char* buffer, int bytesRead)
+void printHex(unsigned char *buffer, int bytesRead)
 {
     for (int i = 0; i < bytesRead; i++)
     {
@@ -20,7 +20,7 @@ void printHex(unsigned char* buffer, int bytesRead)
     printf("\n");
 }
 
-int main(int argc, char* argv[])
+int main(int argc, char *argv[])
 {
     if (argc != 2)
     {
@@ -28,7 +28,7 @@ int main(int argc, char* argv[])
         return EXIT_FAILURE;
     }
 
-    FILE* fp1 = fopen(argv[1], "r");
+    FILE *fp1 = fopen(argv[1], "r");
     if (fp1 == NULL)
     {
         fprintf(stderr, "File Error: %d(%s)\n", errno, strerror(errno));
@@ -56,7 +56,7 @@ int main(int argc, char* argv[])
     }
     printHex(buffer, bytesRead);
 
-    while(1)
+    while (1)
     {
         char cmd;
         int line = 0;
@@ -64,21 +64,21 @@ int main(int argc, char* argv[])
         scanf(" %c", &cmd);
         if (cmd == 'q')
         {
-            fclose(fp1);    
+            fclose(fp1);
             free(buffer);
             return EXIT_SUCCESS;
         }
         if (cmd == 'p')
         {
-                printf("Location: ");
-                scanf("%d", &line);
-                if (line < 0 || line > bytesRead)
-                {
-                    printf("Invalid location\n");
-                    continue;
-                }
-                printHex(buffer + line, LINE_SIZE);
+            printf("Location: ");
+            scanf("%d", &line);
+            if (line < 0 || line > bytesRead)
+            {
+                printf("Invalid location\n");
                 continue;
+            }
+            printHex(buffer + line, LINE_SIZE);
+            continue;
         }
         if (cmd == 'e')
         {
@@ -92,13 +92,13 @@ int main(int argc, char* argv[])
             }
             scanf("%x", buffer + line);
         }
-        if (cmd =='s')
+        if (cmd == 's')
             break;
         printf("\n");
     }
 
     fclose(fp1);
-    FILE* fp2 = fopen("out.hex", "w");
+    FILE *fp2 = fopen("out.hex", "w");
     if (fp2 == NULL)
     {
         fprintf(stderr, "File Error: %d(%s)\n", errno, strerror(errno));

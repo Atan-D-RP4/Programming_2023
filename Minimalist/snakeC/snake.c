@@ -8,13 +8,13 @@
 int main()
 {
     srand(time(NULL));
-    WINDOW* win = initscr();
+    WINDOW *win = initscr();
     if (win == NULL)
     {
         fprintf(stderr, "Screen Initialisation failed!: %d (%s)\n", errno, strerror(errno));
         return errno;
     }
-    
+
     if (keypad(win, TRUE) != OK)
     {
         fprintf(stderr, "Setting Keypad Mode failed!: %d (%s)\n", errno, strerror(errno));
@@ -27,10 +27,10 @@ int main()
         endwin();
         return errno;
     }
-    
+
     int posX = 0, posY = 0;
     int foodX = rand() % 20, foodY = rand() % 20;
-    
+
     int dirX = 1, dirY = 0;
 
     while (true)
@@ -60,11 +60,11 @@ int main()
         posX += dirX;
         posY += dirY;
         erase();
-        
+
         mvaddstr(posY, posX, "*");
         mvaddstr(foodY, foodX, "&");
         if (posX == foodX && posY == foodY)
-        {  
+        {
             foodX = rand() % 20;
             foodY = rand() % 20;
         }

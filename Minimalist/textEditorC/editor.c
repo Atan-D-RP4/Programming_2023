@@ -50,10 +50,9 @@ int main(int argc, char *argv[])
     return 0;
 }
 
-
 void editLine(char *buffer, int currLine)
 {
-    int lineCount = 0; 
+    int lineCount = 0;
     char *lineStart = buffer;
     while (lineCount < currLine && *lineStart)
     {
@@ -65,7 +64,7 @@ void editLine(char *buffer, int currLine)
         }
     }
 
-    if (!*lineStart) 
+    if (!*lineStart)
     {
         fprintf(stderr, "Invalid Line Number: %d(%s)\n", errno, strerror(errno));
         return;
@@ -74,8 +73,8 @@ void editLine(char *buffer, int currLine)
     char *lineEnd = strchr(lineStart, '\n');
     if (!lineEnd)
         lineEnd = lineStart + strlen(lineStart);
-    
-    char saved[1024] = { 0 };
+
+    char saved[1024] = {0};
     strcpy(saved, lineEnd);
     lineEnd = strchr(lineStart, '\0');
     printf("Enter new text for line %d: ", currLine);
@@ -83,6 +82,6 @@ void editLine(char *buffer, int currLine)
     // Remove trailing newline character
     if (fgets(lineStart, lineEnd - lineStart + 1, stdin) != NULL)
         lineStart[strcspn(lineStart, "\n")] = '\0';
-    
+
     strcpy(lineStart + strlen(lineStart), saved);
 }

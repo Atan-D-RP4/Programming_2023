@@ -7,13 +7,13 @@
 int main()
 {
     XEvent event;
-    Display* display = XOpenDisplay(NULL);
+    Display *display = XOpenDisplay(NULL);
     if (display == NULL)
     {
         fprintf(stderr, "XOpenDisplay failed!\n");
         return 1;
     }
-    Window win = XCreateSimpleWindow(display, DefaultRootWindow(display), 50, 50, 250, 250, 1, BlackPixel(display, 0), WhitePixel(display, 0)); 
+    Window win = XCreateSimpleWindow(display, DefaultRootWindow(display), 50, 50, 250, 250, 1, BlackPixel(display, 0), WhitePixel(display, 0));
     XMapWindow(display, win);
     XSelectInput(display, win, ExposureMask);
 

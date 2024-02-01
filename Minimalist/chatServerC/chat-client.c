@@ -14,8 +14,7 @@ int main()
     struct sockaddr_in address = {
         AF_INET,
         htons(9999),
-        0
-    };
+        0};
 
     if (connect(sockFD, (struct sockaddr *)&address, sizeof(address)) < 0) // Connecting to the server.
     {
@@ -30,17 +29,13 @@ int main()
             POLLIN,
             0 // return events
         },
-        {
-            sockFD,
-            POLLIN,
-            0
-        }
-    };
-
+        {sockFD,
+         POLLIN,
+         0}};
 
     for (;;)
     {
-        char buffer[256] = { 0 };
+        char buffer[256] = {0};
         poll(fds, 2, -1);
         if (fds[0].revents & POLLIN)
         {
@@ -65,9 +60,9 @@ int main()
                 (bytesReceived == 0 ? fprintf(stderr, "Client Disconnected!\n") : fprintf(stderr, "Client Receiving Failed! errorno: %d (%s)\n", errno, strerror(errno)));
                 break;
             }
-            
+
             buffer[bytesReceived] = '\0';
-            printf("%s\n", buffer);     
+            printf("%s\n", buffer);
         }
     }
     close(sockFD);

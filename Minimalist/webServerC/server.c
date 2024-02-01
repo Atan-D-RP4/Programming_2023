@@ -22,7 +22,7 @@ int main()
         .sin_port = htons(8080),
         .sin_addr.s_addr = htonl(INADDR_ANY),
     };
-    
+
     if (bind(sockFD, (struct sockaddr *)&serverAddr, sizeof(serverAddr)) < 0)
     {
         fprintf(stderr, "Binding Failed! errorno: %d (%s)\n", errno, strerror(errno));
@@ -45,8 +45,8 @@ int main()
         return 1;
     }
 
-    char buffer[256] = { 0 };
-    
+    char buffer[256] = {0};
+
     ssize_t bytesRead = recv(clientFD, buffer, sizeof(buffer) - 1, 0);
     if (bytesRead < 0)
     {
@@ -81,7 +81,7 @@ int main()
 
     const char *httpHeader = "HTTP/1.1 200 OK\r\nContent-Type: text/html\r\n\r\n";
     send(clientFD, httpHeader, strlen(httpHeader), 0);
-    
+
     off_t offset = 0;
     ssize_t sentBytes = sendfile(clientFD, openedFD, &offset, sizeof(buffer) - 1);
 

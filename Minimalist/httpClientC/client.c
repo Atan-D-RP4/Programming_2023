@@ -18,9 +18,9 @@ int main()
 
     struct sockaddr_in address = {
         .sin_family = AF_INET,
-        .sin_port = htons(443), // 443 is the default TCP/UDP port
+        .sin_port = htons(443),                 // 443 is the default TCP/UDP port
         .sin_addr.s_addr = inet_addr("8.8.8.8") // Public IP address to dns.google.com
-     // .sin_addr.s_addr = inet_addr("142.250.70.46") // Public IP address to google.com
+                                                // .sin_addr.s_addr = inet_addr("142.250.70.46") // Public IP address to google.com
     };
 
     if (connect(sockFD, (struct sockaddr *)&address, sizeof(address)) < 0)
@@ -28,7 +28,7 @@ int main()
         fprintf(stderr, "Connecting Failed! errorno: %d (%s)\n", errno, strerror(errno));
         close(sockFD);
         return 1;
-    } 
+    }
 
     SSL_CTX *ctx = SSL_CTX_new(TLS_method());
     if (ctx == NULL)
@@ -74,8 +74,8 @@ int main()
         close(sockFD);
         return 1;
     }
-   
-    char buffer[1024] = { 0 };
+
+    char buffer[1024] = {0};
     if (SSL_read(ssl, buffer, sizeof(buffer) - 1) <= 0)
     {
         fprintf(stderr, "SSL_read Failed! errorno: %d (%s)\n", errno, strerror(errno));
