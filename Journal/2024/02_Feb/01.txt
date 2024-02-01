@@ -1,0 +1,86 @@
+Thu Feb  1 23:50:10 IST 2024
+    Hellooooo, February!!! Alright 1st month of the year is over. Let's talk about the first day of the second month.
+
+    This morning was not so swell. Woke up at 5:40AM mildly disoriented, brushed my teeth, ate honey, hydrated let Dad take 
+    a shower fisrt and stayed in the kitchen to make sure nothing got burnt and make myself a dosa for breakfast.
+
+    The dosa did not turn out great. But I downed it just as well cause I was hungry and went to take my shower. I intend 
+    to be stay 'clean' this whole month so the count for it starts now. And no, I do not go back on it in the evening.
+
+    Anyway, I got dressed, drank a coffee, looked up the answer to some questions prompted by shower thoughts and packed my
+    things and went out to catch the bus. I forgot to wear my belt and hoodie though thankful I was just outside the door
+    when I realized as much.
+
+    Anyway, I caught the bus, napped the way to campus mostly with a little bit of studying for DMS here and there. I checked
+    my tracked forums and couple of articles on the google homepage out too. *scoff* As if any of that is relevant to me.
+
+    Got to campus, walked to the class, studied some with the boys for the hour that we had before the exam and then went to
+    my exam hall.
+
+    Was not happy with how I did on the exam. It was an easy paper. I just wasn't prepared enough. It's the same with every 
+    exam with me these days. I know enough to say it could have been a lot worse but well prepared enough to write this even.
+
+    So I handed in my paper as late as I could and got out. Met up with Harsith outside chatting with our group of friends. 
+    Went to the canteen to eat lunch. Both of us decided to stay until the evening to write up and turn in our last DMS 
+    assignments.
+    
+    We chatted about things like we always do as we settled with our lunch boxes in the cafeteria. I'm still surprised I talk 
+    as much as I do with this guy. I'm very glad I found him as a friend.
+
+    I contemplated my own emotional maturity in regards to romantic feelings considering the girl I'm crushing on and her, most
+    likely, boyfriend were quite visible from we seated our ourselves. In the end I concluded that it's all just circular logic
+    trying to escape the fact that I'm not brave enough or honest enough about my emotions and feelings to anyone really so it
+    is not something I should be concerned with over everything else I have to deal with first.
+
+    Harsith and I found ourselves an empty room on the 3rd floor of Civil Dept. building to sit in and write our assignments.
+    It took us an hour and half but both of us got it done and gave it in by 3:40PM and came back out to roam the campus.
+
+    Grabbed some snacks from the campus store, sat down near the ground to watch some of the guys play basketball and started
+    towards the busses when they opened the gate. We parted ways there when they finally started the busses.
+
+    On the way home, I finished the new chapter of a fic I'm reading. Played some chess, napped, scrolled Instagram or just zoned
+    off listening to music.
+
+    I was quite hungry by the time I got off the bus. So I walked home a bit slow. I know, it doesn't make sense even as I wrote 
+    it. I mean, I hadn't even considered eating out so why would I take it slow when I'm hungry? My brain works in mysterious ways.
+
+    So I got home, undressed, showered and what not, the usual. I mentioned that I felt hungry to Mom, so she started cooking some
+    Upma, and then in half a daze whisks off to take phone calls, as she does all the time these days, and left it on the stove at
+    full flame. Predictably, the Upma over-boiled or wahtever and made a mess and she blames me for it.
+    
+    I mean, I know I share some responsibility for it since she says that she asked me to stay and watch over it but she really did
+    not do a good jov of communicatiing that in the middle of another phone conversation. So I just left her to it and went to work 
+    on my stuff in the other room. But come on!
+
+    So I made some modifications to .git file on my personal repository based on the cs50 one. Added a new auto-format setting to it.
+    Cleaned it up of all executable files and pushed a commit of that. Hopefully the new .gitignore file will make sure that more don't
+    end up in the cloud repo later.
+
+    Tried to remember how I moved a folder between repos the last time for the DSAC internal lab exam. I remember I 'curl'ed stuff 
+    from my personal repo, but it was first on the cs50 one so I somehow moved it. I don't think I did it with the terminal.
+
+    Anyway, I proceed to get yelled at by Mom, achieve 8 super-awesome push-ups and 8 slanted push-ups, ate a helping of Upma, finished
+    it just in time to join Haristh in playing roblox and getting absolute wrecked by his meta.
+
+    Then I was enlisted in chopping onions which I did the bare minimum of to get out of there. After which I finally started on Rust!
+
+    Took a while to set up and configure a new repo, codespace, its .gitignore stuff, settings and component tools, docs, stuff like that.
+    Wrote my first program in it. A "Hello, World!" program. Got acquainted with Rust's build tool. That's about as far as I took it 
+    before deciding that it was time for dinner.
+
+    So I ate dinner while watching a podcast with the Primagen being interviewed. Finished dinner and helped with some other chores.
+
+    Read the new chapter of the One Piece manga. And man, really?! Giants? Dorry and Broggy???! Let's GOOOOOOO!! The catch though is that
+    One Piece is gonna be on break next week. *Sad Sobs*. Checked out where the anime is situated on its storyline. After which I started
+    writing the days log and here I am.
+
+Fri Feb  2 00:43:21 IST 2024
+    Damn I'm tired. I started this like an hour ago. I have not done any of the things I said I wanted to do today. YouTube and Instagramsa
+    saved collections organizing, January logs review are the main ones. Though there are surely others that I am forgetting. 
+
+    Have I mentioned that I'm tired? I need to go to bed. Writing this stuff is lot more taxing that one would imagin.
+
+    But that's it for today. Adios mu cha cho.
+    
+Fri Feb  2 00:47:57 IST 2024
+    fin.
