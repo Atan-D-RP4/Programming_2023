@@ -33,6 +33,9 @@
 *.class
 *.sm
 
+# Ignore the target directories in Rust project builds
+*/target
+
 # Ignore `bin` dir
 bin/
 # or
