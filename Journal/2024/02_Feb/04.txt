@@ -1,0 +1,65 @@
+Mon Feb  5 02:11:08 IST 2024
+    Today was kind of boring to be honest.
+
+    I woke up around 8:40AM. Mom was still asleep, Dad was up though.
+
+Mon Feb  5 02:43:24 IST 2024
+    Would you look at that?! 'date' is working properly today with no fixing neccessary.
+
+    Anyway, I got up, brushed my teeth, ate honey, drank water, showered, put eggs on boil. Dad got eggs yesterday by
+    the way.
+
+    Ate the boiled eggs after showering. I gave in to my urges in the shower today. It was all because of getting too 
+    immersed in half-asleep fantasies! I actually released in the middle of the night! I had to clean up! AHHHHHHH!
+
+    So that clean streak lasted all of 3 days. Whatever. I will make the next one last longer starting today again.
+
+    I spent the morning watching YouTube and playing chess. I read more on Rust programming. While doing that, I hit a 
+    sit that continuosly 'proc'ed notifications that looked they were from McAffe saying that my browser was infected.
+
+    It took me an hour to figure out that it was just the website spamming notifications and not my PC being actually
+    infected by a virus. I removed the site from the browsers 'allow notifications' list and that was that.
+
+Mon Feb  5 02:53:42 IST 2024
+    Then I helped with some chores to appease my grumpy Mom. Sat down with another Primeagen video to eat lunch.
+
+    Played some chess and read a fic update, re-read some chapters of JJK, looked into the docs for the Linux Kernel to
+    look where Rust was coming into play there.
+
+    Checked out the forums I track, and read some other fanfics for a little and then going to sleep around 4:40PM.
+
+    Praneeth had went out already as is his MO at this point everyday. So I got the bed in room.
+
+    I did some push-ups too, paying more attention to my form now. I think I got in 4 good ones. 
+
+    I woke again from my siesta around 8:40PM to an empty house. Mom did say she wanted go shop for some clothes for the 
+    house-warming party. Personally, I think its a waste to do that when we already have so many good clothes that are 
+    worn so little. Especially me.
+
+    I heated up the milk and poured myself a glass of coffee and watched YouTube for an hour and a half. When I got to 
+    learning Rust, I decided that I would try to fix the LISP for it, which was not working properly.
+
+    I spent 2 hours on it searching files for binaries, looking commands or reading documentation and figuring out config
+    files. Ultimately, I realized that it was pathing issue caused by running a WSL and installing the Rust packages on 
+    that and the LSP's VSC extension being on the regular system, which meant that the LSP's binary couldn't find the build
+    tool Rust uses. So it wouldn't work.
+
+    I was too tired to figure how to path from the regular system to the WSL directories so I just gave up at that point and 
+    decided that I was just going to have to do Rust on Hard Mode.
+
+    I finished another of the Rust book. Rust's Ownership concept for heap memory is very interesting. Like I already like 
+    Rust a lot.
+
+Mon Feb  5 03:13:06 IST 2024
+    I'll go to sleep as soon as I finish this. Also just added in an idea for the CS50x project in my Notes, so I don't forget.
+
+    Mom and Dad came homw around 11:00PM or so. I hadn't eaten anything yet but they did me the kindness of getting me an Onion 
+    Dosa. I warmed up the milk again to make Mom her glass of Bourne Vita and warmed Dads tea.
+
+    Mom handed my the Dosa which I gobbled in 15mins. Ate a second helping of some Dal-rice and cabbage curry. Took on a Hard 
+    LeetCode problem. Didn't get it for like two hours. And I cheated by using ChatGPT and looking up the answer.
+
+    I'm done for today. Going to sleep. Ciao.
+
+Mon Feb  5 03:19:19 IST 2024
+    fin.
