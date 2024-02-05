@@ -1,0 +1,68 @@
+Mon Feb  5 17:06:44 IST 2024
+    Today has been, honestly, boring.
+
+    I woke up at 8:40AM like usual. Went through the morning rituals and whatnot. Forgot about there being eggs left in 
+    the fridge so I skipped breakfast.
+
+    Just passed time most of the morning. Solved a Python porblem on Hackerrank that showed up on my gmail. *Really* 
+    procrastinated on working with Rust today.
+
+    Played a bunch of games of chess. Passed more time with YouTube videos. Ate lunch while doing that. Got into some 
+    technical programming videos which prompted me to investigate Type Systems in Programming Languages. That was quite
+    insightful.
+
+    Raged at VSCode on my PC for opening new windows everytime I try to open a file with 'code' instead of using the active
+    window, which it doesn't even see.
+
+    Found out through a Primeagen video that someone built a CPU scheduler for the Linux kernel in Rust. Which prompted me 
+    to look into that a bit. Apparently you can swtich between different schedulers while running an OS these days. Mind 
+    absolutely blown by the way. Like that is very awesome.
+
+    Spent more time being bored and directionless. Passed time with YouTube. Then one of my classmates DM'ed me asking to 
+    error check some his code so I did that.
+
+    Still not going to studying Rust.
+
+    Did some chores around the house over the course of all the events(i.e., non-events) I mention above.
+
+    Participated in some Type-Racing. Set a new personal record of 50 WPM and then went downhill from there. Got bored of 
+    that too soon enough.
+
+    I decided that put food in me after some exercise would get me motivated so I put eggs on boil and milk to be warmed and 
+    got to working out.
+
+    Achieved 5 push-ups with great form and failed everytime I tried another. Plancked for, probably, 45-50s. Did 2 sets of 10
+    of deep-squats. 2 sets of 10 of slanted push-ups. Threw in some shoulder stretching too because my left is still bothering
+    me and my right-side of my neck is stabbing with pain now too.
+
+Mon Feb  5 17:26:54 IST 2024
+    Now, here I am starting my days log early while eating my eggs. Will make myself a shot of coffee and get to studying Rust.
+    Promise ...! 
+
+Mon Feb  5 19:36:58 IST 2024
+    As promised, I finished another chapter of the Rust book. It took just an hour and 45 minutes. Not bad. Though this chapter 
+    is pretty short. Later ones are much more dense. Especially the practical ones.
+
+    What else ...? Praneeth went out to the Gym. I managed maybe 1 more push-up, and 10 knee push-ups. Played watchman at the 
+    door while Mom took a dump. Dad came home from his evening shift.
+
+    Also, Lokeswari Mam release the sessionals for her subject, DSAC, both theory and lab and my results were pretty good especially 
+    considering I have big fat Zero for an entire Mid-Term exam.
+
+Mon Feb  5 23:13:53 IST 2024
+    I browsed Instagram for a while and played watchman for the door again for an hour. Even though I didn't have to. I thought Mom 
+    said to do it. Guess I heard her wrong. Won a game of chess afterwards. Started another LeetCode problem.
+
+Mon Feb  5 23:54:19 IST 2024
+    Fuck! Tomorrow is Java External exam and here I am hacking away at a LeetCode problem in C. And it's almost midnight. I should be 
+    heading to bed. And I will as soon as I finish this.
+
+    I got some of the folders from the CS50 codespace into myh local system. Then I read an update for a fic that hasn't updated in a 
+    long while. It's Harry Potter fic that I absolutely loved. Ate dinner while reading that.
+
+    Read up on the newsletters for today. Watched another episode of 7th Time Loop anime. Then I spent a while on that LeetCode problem.
+
+    Now I'm heading to sleep. Gute Nacht
+
+Tue Feb  6 00:02:49 IST 2024
+    fin.
