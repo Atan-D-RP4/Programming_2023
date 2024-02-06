@@ -118,6 +118,9 @@ Tue Feb  6 23:22:56 IST 2024
     After freshing up, I sat down and watched some more videos from the YouTube programming community. Set up my dotfiles Repository and 
     permanent aliases on my WSL's bash.
 
+    Then I did some working out. 5 push-ups, 2 sets of 10 of jump squats and some 15 biceps curls with the 5kg weights. Oh and a couple secomds
+    of the reverse planck. I really should do more of the 'bridge' exercise for my glutes.
+
     Looked into how I could customise my system some more. A couple more YouTube shorts and videos. And then I decided to have an early dinner.
     Warmed up what we had cooked, put on a new Primeagen video that talked about sync/async in Rust and ate. Played a game of chess after.
 
@@ -138,3 +141,5 @@ Wed Feb  7 00:02:51 IST 2024
     awe~some.
 
     Anyway, it's time to head to bed. It's past midnight and I still have another exam tomorrow.
+
+    fin.
