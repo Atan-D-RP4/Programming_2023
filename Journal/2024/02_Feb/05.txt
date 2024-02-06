@@ -62,7 +62,7 @@ Mon Feb  5 23:54:19 IST 2024
 
     Read up on the newsletters for today. Watched another episode of 7th Time Loop anime. Then I spent a while on that LeetCode problem.
 
-    Now I'm heading to sleep. Gute Nacht
+    Now I'm heading to sleep. I did not finish that problem by the way. Gute Nacht.
 
 Tue Feb  6 00:02:49 IST 2024
     fin.
