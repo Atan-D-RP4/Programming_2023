@@ -1,0 +1,140 @@
+Tue Feb  6 22:14:42 IST 2024
+    Today was great. Let's elaborate on that.
+
+    I woke up at 5:40AM, though this was proceeded by weird dreams that consisted of me writing code for ...something. I 
+    don't remember anymore. I really wanted to stay in bed longer though because Dad was up and I could lie in a little
+    while longer, right? NO!
+
+    Got out of bed, brushed teeth, ate honey, drank water and readied a bottle to carry. Dad went into the shower early,
+    so I used his futon/mattress thing that he uses to sleep on the ground to do 2 cycles of Surya Namaskar. That exercise
+    is not easy man. Requires way too much mobility from my spine.
+
+    I readied my clothes and towels and headed into the shower. Made it out quick too. I unshelled and salted the eggs Dad
+    had boiled. And I feasted on them for breakfast while watching another Primeagen video. This one about Open Source
+    Software and Contributions to them.
+
+    Dressed and packed everything and headed out to catch the bus. Also Praneeth's new shoes looked and felt nice. Hope they
+    don't fit him. Then they'll be handed down to me. I really do not like my own taste, do I? 
+
+    I guess that's because perhaps I have no taste at all.
+
+    On the bus, I looked through Instagram, tried to study some Java and spaced out listening to my Liked Songs playlist.
+
+    Joined my friends in the classroom and did some kind of preparing for the Java Lab External for a half an hour or so.
+
+    Then we all collected our things went down to Lab to give our exams. It was honestly pretty chill and easy. 
+    
+    I had to write up the program for Multithreading which is same question Harsith got. There was a mix-up in that we copied a 
+    numbered question from a projected document but the question on Mam's question paper(which is the one that's) valid had a 
+    different question. So we had to change that. Harsith very much wished it was the first question we copied that was valid
+    cause that was just the Letter Combinations one. And, honestly, I agree with his sentiment.
+
+    Wasn't all that bad. I wrote up my paper pretty fast, though it had a lot of corrections on it that would on it that, in an 
+    actual text editor, would have proper edits. But it was fine. Mam didn't look at it too closely.
+
+    When I got to the execution part, I saw that the system I booted up had an Internet connection. So I git cloned one my of 
+    Github Repositories that had lab programs directory over HTTPS. cd... cd... cd... mv... rm -rf ...'d it all and then compiled
+    the .java file for the Multithreading program and ran it. And BOOM! My execution was finished. Just like that!
+
+    Of course I made edits to the program on the system and my answer paper both before I showed it Mam. I also added in the start-
+    stop feel to it using the sleep() thread method when she mentioned it the Deepak and few seats over. When she checked it she 
+    found no fault in it and that's basically my Lab External for Java done.
+
+    I wrote up some more of the description that I didn't know from the web-browser before giving up my workstation to Arya.
+
+    And then sat beside Mam's table while she made rounds across the Lab waiting to have my paper marked 'executed'. Had it done a 
+    few minutes later then just sat quietly until the External invigilator came in to carry out the Viva.
+
+    Harsith asked to switch places with him since he would have to give the Viva first. So I did. His seat neighbored Gayatri and 
+    Hemanth. I helped out Hemanth with an error in his code and was amused by the Traceback on Gayatri's program.
+
+Tue Feb  6 22:47:42 IST 2024
+    Just a mention that no breaks were had during this update, but it has taken a minute to get here so that's why this is here.
+
+    Anyway, got called out once by Ratnam Mam for speaking too much which was fair. The External invigilator seemed like a chill 
+    person so far. So that was a plus. Harsith came to his seat after his Viva was done with. I went back over there, which was 
+    right beside where the sir sat.
+
+    He made a pretty jovial comment about I seemed like the CR to the people in proximity and some other good-natured comments.
+
+    Pretty soon it was my turn, and by then I had to hit the toilet pretty urgently. He asked me one question about what Multi-
+    threading is, and answered as verbosely as I could, as best as I could. The face he made, just like the faces eevryone makes
+    when I speak in my English, annoyed me. But I impressed a chill smile onto it, and listened to his non-sequiter about the 
+    importance of communication while holding my bladder in.
+
+    Like I respect that he was nice and not very hard-ass but I really could've done without the rant. He didn't ask me another
+    question after that so I turned in my paper and left to hit the toilet. 
+
+    Once I relieved myself, I talked to Vasu a little about tomorrow's DSAC Lab External. Walked to out get some sun, and greeted
+    a couple of friends from B-section who just finished their Lab External DSAC and just generally loitered around until Harsith
+    came out.
+
+    Poor guy had to wait until Mam checked his execution which she didn't get to. Harshi was really frustated with her and I get 
+    that. But I really I can understand Mam too, since she had to manage a lot of students and was already very annoyed by our 
+    general conduct and how the exam was going until then, very little of which is her fault.
+
+Tue Feb  6 23:03:01 IST 2024
+    This is taking way too long and is already so long. I've barely covered half the day and the logs nearing 80 lines. Damn.
+
+    Moving on quickly. We ate lunch back in our classroom, walked over to the Civil Dept. to set up in the library until the evening.
+    Met Kiran on the way and he and Harsith talked about their DTPI project. My team's is really not done at all man. 
+
+    Kiran and co. persuaded us to join them in eating something, I initially agreed but left them on their own just a bit later. Got 
+    invited by Vyshu to her birthday party. That was something.
+
+    So I went up to the library alone. When I got there I found out that there was no Wi-fi for the Digi-Lab. So the place was 
+    practically useless. So I sat there and browsed Instagram or played Chess.
+
+    Harsith and co. joined me a while later and I relocated with them to the table Akhilesh and Basha were sitting. Hadn't even noticed 
+    them there until Harsith pointed them out. Harsith and Kiran continued working on their project and we all chatted amonsgst ourselves
+    until we had to leave.
+
+    Kiran and co. left early and Harsith and I stuck around until 3:50PM talking about this and that. We continued our conversation down 
+    our way and while we waited for the bus stop gate to open up and then until we got to our busses.
+
+    We joined up again and then a friend from CSM joined us to tell us of the incident that apparently occured in their Dept. buildings 
+    Lab. So their entire building is new along with the Labs, so everything in those Labs is also brand new. Some of these new things 
+    include systems with pretty decent GPUs. Some students from another college who were visiting our campus, wasn't clear on why, stole 
+    3 GPUs from the Lab computers. Yeah. That's a thing.
+
+Tue Feb  6 23:22:56 IST 2024
+    Break to annouce that I just went to help Mom set the washing machine in place after it jerked out of place while working. That happens
+    quite often. Also this log is now over 100 lines long. 100 lines!
+
+    I expresse how the entire incident seemed stupid and a negligence of the staff and that it was very unfair to be crackdown on us students
+    for it, and questioned why they would need workstations with GPUs anyway.
+
+    The answer to that was apparently that it was required for ML work which pre-requisited high compute power. My repsonse to that was that 
+    it was a dumb idea. They could have paid for a cloud service and a better Internet connection. And then it was pointed out that those 
+    systems came from a sponsorship and then I got it.
+
+    We parted ways when the busses started up. On the way home, I lost a game of chess, scrolled a bunch of Instagram, checked out something 
+    called the Odin Project, and napped a little.
+
+    Got home, was annoyed to realise that Mom still hadn't cleaned up my glasses case like I've asking her for a month, and went to shower.
+
+    I ...gave in to my impusles in the shower. Damn it I'm weak and pathetic. I just couldn't make the sacrifice. Fuck!
+
+    After freshing up, I sat down and watched some more videos from the YouTube programming community. Set up my dotfiles Repository and 
+    permanent aliases on my WSL's bash.
+
+    Looked into how I could customise my system some more. A couple more YouTube shorts and videos. And then I decided to have an early dinner.
+    Warmed up what we had cooked, put on a new Primeagen video that talked about sync/async in Rust and ate. Played a game of chess after.
+
+    Then I spent an hour consuming visually stimulating and addictive media.
+
+    Once I stopped with that, I started with this log. Also, managed to get the password for Dad's email, finally. Damn writing this took so long.
+
+Tue Feb  6 23:42:32 IST 2024
+    It's almost midnight already. And I've made no progress on the Rust book today!
+
+    *Sigh* I'll update this again before going to sleep.
+
+Tue Feb  6 23:51:48 IST 2024
+    Just won a game of chess and it's probably has my best played endgame. I switched up my opening.
+
+Wed Feb  7 00:02:51 IST 2024
+    And another one bites the dust. It was a beautiful checkmate. I calculated pretty far ahead and was actually got it impressively right. It felt 
+    awe~some.
+
+    Anyway, it's time to head to bed. It's past midnight and I still have another exam tomorrow.
