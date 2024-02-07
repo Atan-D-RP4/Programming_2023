@@ -1,0 +1,105 @@
+Wed Feb  7 20:54:09 IST 2024
+    Today is a lot of interesting things. But it is especially a day of great personal failure.
+
+    Waking up today at 5:35AM, I felt like a ghost or some horror movie villain with how I just sat up straight on my bed after realisingI was too
+    awake and that it was time to get up.
+
+    I put my eggs on boil, and woke Dad up. Brushed my teeth while Dad oriented himself. Ate honey and hydrated. Did 2 Suryanamakars when Dad went
+     to shower first. I prepared my towel and clothes and went in next.
+
+Wed Feb  7 20:58:41 IST 2024
+    Good god, my shoulder is killing me.
+
+    Any I whamied myself in shower. Weak ass addict that I am. Dried up, got half-dressed then cut up and salted my boiled eggs. Eating them took 
+    like 20mins, so I ...what did I do while I ate? Browsed some forums, and read a new fic I think. And a Programming video too.
+
+    When it was time to head out, I grabbed my phone and my lunch, that Dad packed for me while I ate breakfast, and got dressed in yesterdays
+    uniform. Which I didn't throw in the laundry cause I wanted to re-use it. Well, more like Mom wanted me too, so that there isn't too much
+    laundry when she gets back.
+
+    Oh yeah, Mom is going to Srikakulam today to do some more preparation for the Housewarming event. So she won't be doing any of her work/chores 
+    today, meaning it will pile up for when she comes back.
+    
+    So I went out. Got to the bus stop a little early, but that's always nice. On the ride, I did absolutely no studying for the DS Lab External
+    today at all. Just read forums, and finished the first chapter of that new fic I started of which there are only two. And found another
+    game to add to my Steam wishlist.
+
+    Did some studying once I joined up all of my classmates but I only looked at, like, 2 problems. This exam is one entirely based on the luck of
+    the draw. I could do great depending on the problem I get.
+
+    So the exam started at 9:00AM or thereabouts. I got my question, and thanked god since it was an easy one, situated myself and started my write
+    up. Got my seat changed cause I got dragged into conversation by my neighbors asking for help. 
+    
+    So I silently finished my write-up which took, like, and hour and a half. I was called out for Viva in the middle of that, to which, I think, I 
+    answered pretty well. By the time I got my write-up checked by Mam so I could move onto the program execution part it was 10:55AM or so.
+
+    So I typed as fast as I could, cleared my compile-time and run-time errors easily and had my program pretty much ready to be looked over by Mam.
+
+    When Lokeswari came over, I demonstrated the right behaviours for the program for the inputs she assigned and got her mark of approval. Recorded
+    my outputs passed over the paper and got out of the Lab so as to not further inconvenience the invigilation faculty on top of everyone elses BS.
+
+    Met one of my bus mates outside and we talked for a minute about our exams and stuff. Met up with Harsith and went to our classroom to relax and 
+    whatnot. I ventured out a little to find out if busses were running this afternoon. They were. Departing at 1:20AM.
+
+    So I went back to classm and ate lunch with the gang. Harsith brought his laptop, so he put on a movie he downloaded, Salaar starring Prabhas. I 
+    was  immediately turned off ny that. So I just browsed stuff on my phone while I ate. Harsith also talked shop with his DTPI project with his 
+    teammtes and we all left together after they were done. We chatted in the way to the back gate and separated once the busses started up. 
+    
+    I finished up my lunch on the ride since I left some uneaten. Played a couple matches of chess. I think I've found my groove again. I'm not 
+    losing as badly as I've been for the past two months.
+
+    Afterwards, I just scrolled through Instagram just browsed the web for stuff that piqued my interest.
+
+    On the walk back home from the bus stop, I talked with a busmate about what kind of programming I am doing and will be doing and what kind I 
+    think we should be doing and stuff like that. We separated when our routes diverged.
+
+    I went to the More supermarket to replace the sanitzer bottle that I lost today only to find out they weren't in stock. Very disappointed.
+
+    When I got home, Praneeth opened the door when I rang the bell since Mom wasn't around today. Dad was home from his morning shift. I just did
+    all of the unpacking and stuff and went straight into the shower.
+
+    I whammied myself in the shower again by the way.
+
+    I sat down in front of the computer and watched a some Software Dev videos, moved a couple files around on my PC, played a bunch of chess, and 
+    read a new update for a really nice Percy Jackson fic.
+
+    Drank some orange juice by the way that Dad made from some leftover oranges and left for his afternoon shift. Praneeth also went out. I don't 
+    know where, probably to hang out with his friends or something.
+
+Wed Feb  7 21:43:18 IST 2024
+    I spent two hours watching pleasure stimulating video content. I'm not proud of it. I thought I could make February work but I guess not. Gosh
+    I need therapy.
+
+    I stopped when Dad came home from his afternoon shift. Helped him unpack some groceries. The milk he got when he came home earlier was package
+    burnt. So he had to get more.
+
+    I made myself fresh coffee with the *fresh* milk instead of burnt/spoiled stuff after warming it up. While it warmed, I did some exercise. 
+
+    Nothing fancy. A 10 rep set of jump squats, 4 push-ups but the form was good I think, a 10 rep set of slanted push-ups, 10 knee push-ups, a few
+    dozen seconds of the reverse plank and a bunch of shoulder stretches.
+
+    When I finished, I drank my coffee while playing some more chess and watching more YouTube videos. And then I had to choose between starting the
+    log for today or starting the next chapter of the Rust book. I chose the former and here we are.
+
+Wed Feb  7 21:52:40 IST 2024
+    This line is just a timestamp kind of thing. Also I notice I'm more descriptive of my day when I start writing about it early. Makes sense since
+    I would remember it in more detail. So all of the logs I've started early are so long. I'm at line 85 here.
+
+Wed Feb  7 21:56:02 IST 2024
+    Anyway, I'm going to attend to a chore that I've yet to finish and then get to the Rust book. So I'll leave this here, for now.
+
+Thu Feb  8 00:57:25 IST 2024
+    So I didn't get to that chore I mentioned yet. I moved around the house, watched more YouTube, looked up some articles on private Repo clone 
+    access, since I don't want anyone to just be able to clone my .dotfiles Repo from github. Scrolled through some forum articles.
+
+    Praneeth came home from wherever he went. I laid on the bed a little while and spaced out. I found that another fic I keep track of was updated
+    with a new chapter so I read that. 
+
+    More YouTube. Lost a game of chess, didn't see the only good move. Read the new chapter of Oshi no Ko.
+
+    I should probably head to bed now. I didn't finish the two chaptera of the Rust book today like I wanted to. I'll have to catch up.
+
+Thu Feb  8 01:04:46 IST 2024
+    This is the closing line. Over 100 lines a second time. Yeesh.
+
+    fin.
