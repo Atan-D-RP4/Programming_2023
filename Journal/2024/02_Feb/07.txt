@@ -97,7 +97,7 @@ Thu Feb  8 00:57:25 IST 2024
 
     More YouTube. Lost a game of chess, didn't see the only good move. Read the new chapter of Oshi no Ko. Hung the laundry up to dry.
 
-    I should probably head to bed now. I didn't finish the two chaptera of the Rust book today like I wanted to. I'll have to catch up.
+    I should probably head to bed now. I didn't finish the two chapters of the Rust book today like I wanted to. I'll have to catch up.
 
 Thu Feb  8 01:04:46 IST 2024
     This is the closing line. Over 100 lines a second time. Yeesh.
