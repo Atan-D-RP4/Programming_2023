@@ -1,0 +1,76 @@
+Fri Feb  9 23:15:42 IST 2024
+    Today was a giganticc waste of time.
+
+    So I woke up at 5:40AM, went through the morning routine, showered first while Dad was in the kitchen. He woke up first today by the way. I 
+    resisted the temptation of the pleasure of the flesh and got out by 6:10AM.
+
+    Also waking up, I had weird progrmamming concepts jumbling around in my head from my dreams.
+
+    I cut up the eggs that Dad had boiled, salted them, and sat down to eat them for breakfast with some early morning YouTube stuff. It was mostly
+    about this group of tech guys who ran an Internet pirating website. Finished it by around 6:45AM. 
+
+    Then I got properly dressed, packed up everything as needed for going to college today, put on a used pair of socks and headed out to catch the 
+    bus to campus. 
+
+    None of my usual busmates from my stop were there today. They were probably finished with all their exams.
+
+    On the ride, I mostly played a couple games of chess, scrolled Instagram and slept through the rest of the ride. When I got to campus, I got to
+    our usual classroom and sat down with Yaswanth to look over our project. Tried to implement a new feature on it, failed because the damn main UI
+    page was designed a pay-walled service and the source code for it was inaccessible.
+
+    So I just hung around in the classroom with the team and my other friends looking at their projects or playing more chess. Some of my friends 
+    from another Dept. came around asking for help with hosting their website. 
+
+    So I went around and helped them out, I left a bit early to eat lunch before the time of the exam. They said they would get back to me a little
+    bit later but they never did.
+
+    I got back together with my usual friend group back in the class and ate lunch with them while looking browsing through their website. Then we 
+    all left to the Project Lab in the Mech. Dept. where the exam was to be conducted at around 12:30PM.
+
+    They didn't even start in the first place until 1:00PM or something. So our whole just sat in an adjacent classroom and waited. The teams 
+    started going out to give their project presentation. We prepared for ours, talked with the people who finished theirs abput how it went and 
+    waited our turn. I played chess and just played around on my phone until I decided that my phone had too little charge left, so I turned it off.
+
+    When it was our turn, we gave a brief explanation of what we did. The External Invigilator was rightly unimpressed with our project, since he 
+    could find no unique features and no Design Thinking involved, and that most of our site looked copy-pasted. By the time our thing was finished 
+    it was 3:30PM.
+
+Fri Feb  9 23:47:19 IST 2024
+    I stuck around with Harsith in the neighboring classroom until 4:00PM to avoid the Seniors distributing stall tickets. We left together to catch
+    the busses. Left our bags in our respective ones and went around to get some snacks. Harsith bought me veg puff and himself an ice cream cone. 
+    We talked about programming among other things and separated when the busses started.
+
+    I mostly just slept on the ride home. The walk home was so completely mundane. 
+
+    When I got home I was immediately put in a bad mood within the span of a single conversation with Mom. I have been asking for a over 2 months 
+    for her clean up my glasses case and give it to me but she keeps fucking forgetting. When I get a little pissy about she snaps at me. 
+
+    The woman cannot even put in a proper system to answer the door, isn't able to use the second bathroom we have in the house, not to mention that
+    she just cannot maintain a clean home and I ask her for a simple thing and she snaps. She will probably never find satisfaction in life ever.
+
+    That's not me being bitter or whatever, just a logical observation.
+
+    I showered straight away, gave in to the temptation of the pleasure of the flesh. When I got out, I dried off and made myself a glass of coffee.
+    I watched some YouTube videos, looked through the forums I track, played some chess, read some fics about the Assassin's Creed games. Played 
+    some more chess.
+
+    I read some more of chapter 7 of the Rust book. Didn't really get the module system that Rust uses but I think I'll get it once I actually 
+    finish the bloody chapter.
+
+    I helped out Mom with some stuff about payments or whatever. Did some exercise. A bunch of biceps curls into overhead lifts with the 5 kilo 
+    weights, 5 push ups with proper form, 10 jump squats and a minute of planking.
+
+    I found out a Data Structures and Algorithms repo that was written entirely in Rust. It is beautiful and I barely understand any of it.
+
+    I looked through Amazon for a split keyboard, got turned off by the prices, ate dinner first watched more YouTube. I also helped cook some rice 
+    because we ran out.  
+    
+    I watched more YouTube instead of making more progress on the chapter from the Rust book. Then I got to writing the log for today.
+
+Sat Feb 10 00:11:28 IST 2024
+    I'll continue to write updates for it before I get to sleep.
+
+Sat Feb 10 00:47:48 IST 2024
+    I watched more YouTube, played a winning game of chess. Never did finish the chapter of the Rust book for today. Now I'm going to sleep.
+
+    fin.
