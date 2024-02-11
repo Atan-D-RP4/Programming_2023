@@ -46,7 +46,7 @@ Sun Feb 11 01:09:50 IST 2024
     engaged in conversation with them a little while. Aunt Charumathi is a very energetic and playful person.
 
     We got into the house. Dad showered first, I waited watching Instagram, and Mom Mom'd. When I finally freshend up, I put the milk and the 
-    leftover Upma on the stove to warm up.
+    leftover Upma on the stove to warm up. Ate the Upma, forgot to drink the milk.
 
     Then I watched a bunch of YouTube videos. One of them was about using CLI tools better which I took as much to heart as I could. So I aliased 
     some cool commands on my systems shell. And then I started this log.
