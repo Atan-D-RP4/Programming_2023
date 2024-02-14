@@ -1,0 +1,97 @@
+Wed Feb 14 20:10:00 IST 2024
+    Today was a not great day all around. And I'm writing this early today which is a habit I hope I can keep for the rest of the time I write 
+    these daily logs.
+
+    I woke up to the alarm at 5:30AM. Dad was on his overnight shift and would come home at 7:00AM. So I warmed up the leftovers from yesterday as 
+    I brushed my teeth, put milk and eggs on the stove, tried tp wake Mom to no avail and then went to take a shower.
+
+    I gave in to the temptation of the flesh today. Got out, dried myself off and frantically ran to the kitchen to turn of the eggs I left on boil.
+    Mom hadn't woken up to look after that. She did wake up a couple minutes later though.
+
+    We realized that Praneeth had eaten off the curry Dad had saved up for me last night sometime after we all went to sleep. So I decided just eat
+    at campus' cafeteria. What a waste of effort warming all of those leftovers up was.
+
+    I hydrated, ate 2 spoons of honey and drank the meager amount of coffee Mom made me. We'd run out of ground coffee. Then I cut up and salted my 
+    boiled eggs and sat down with the computer to eat breakfast.
+
+    I watched the latest episode for the anime 7th Time Loop, then I watched some YouTube content. Found out about a new set of keyboard hotkeys.
+
+    It was almost 7:00AM so I got dressed and ready. Dad was late. I waited until 7:10AM to call him to ask why and his response was that he needed
+    to go to the Railway Station and that he wasn't gonna be home now and to just skip classes for today.
+
+    Mom called in Dileep to see what we could do. Just when I make peace with this unfortunate circumstance(not sarcasm) Dad comes by in the 
+    Hospitals Van-bulance thing. Opens the door and leaves. Honestly Dad? While I appreciate you lot, just fuck you.
+
+    Like it was 7:15AM I was gonna miss the bus anyway goddamnit. Luckily Dileep came by and dropped me off near the bus. We had play catch up with
+    it and lost. I got on the A bus that stopped close by where we stopped and took that to campus.
+
+    The entire experience left me in a bad mood the rest of the day. On the bus ride, I mostly just scrolled Instagram, played a couple matches 
+    of chess, checked some forums too, and napped a little.
+
+Wed Feb 14 21:12:39 IST 2024
+    Took a little bit of a break to watch some YouTube. Where was I?
+
+    Oh yeah, we made it campus at 8:40AM. And I mean the back gate stop. I made it to class at like 8:45AM. Luckily the first periods lecturer was 
+    a bit late.
+
+    The first periods being Micro-Processors and Interfacing, MPI for short, with a Mr. Shiv Kumar from the ECE Department. He gave a brief intro 
+    to his subject and elaborated on our course syllabus. He seemed like a calm and reasonable teacher. So I look forward to his future classes.
+
+    This was followed by PSQT with Suryanarayana sir. It was actually supposed to be CG but a substitution was taken since the CG faculty took 
+    Suryanarayana sirs period yesterday. Enjoyed that class. A couple Seniors came in to make announcements for the Fest. More on that later.
+
+    Next was FLAT with Bharathi Mam. I actually enjoyed this one too, surprisingly. Though I expect it get much worse as we progress. Also she gave
+    us homework that I haven't started on yet.
+
+    The last period before lunch was Computer Networks with Gayatri Mam. She was late for class as is but then a couple other Seniors came for yet
+    more announcements. So Mam just left the class to them mostly and just had me forward the days attendance to her.
+
+    I'll get back to this after dinner.
+
+Wed Feb 14 22:14:56 IST 2024
+    Okay, I'm back. Just finished dinner. Was Delicious. Chana Dal and bottlegourd...? curry plus regular dal with coriander.
+
+    Anyway, lunch today I ate in the cafeteria. Before that, I went to the campus store and bought a couple notebooks and some snacks for Harsith.
+
+    Ate a chicken fried rice there sitting with Sanjana. It was nice to catch up with her. I spent a bit of time with Sai Charan there watching 
+    memes and listening to his stories. Man CSM/CSD people be wilding these days.
+
+    While calling him out, I actually slipped out of my chair. Thankfully no one saw that embarrasing turn of events so that was good. The silver
+    lining is that it at least gave Charan a good laugh.
+
+Wed Feb 14 22:52:38 IST 2024
+    It was 2:30PM or something like that when I got back to our classroom. We had the afternoons off on Wednesdays so no worries about classes.
+
+    I just ended up playing some more chess and sleeping. I wanted to do some stuff like write my notes or do some CR work but I just didn't.
+
+    It was 4:00AM pretty soon after and I walked with Harsith and some others to the busses together. We left each other there.
+
+    On the bus ride home, I scrolled through Instagram, played some chess, trawled through some forums and napped.
+
+    When I got home, I got in with my spare key to an empty house and decided to take the car out for a spin for while. I only took a short drive 
+    around the area so it didn't take too long. I came back home at around 6:20PM. 
+
+    I had a thought: Alcohol is best drunk watered down. I mean, you get hydrated from it, can always use the excuse of having to pee, aren't ever 
+    going to get too drunk but will feel buzzed, win-win-win. And if you've got a decent tolerance with some good game, you can get easy wins by 
+    drinking everyone under the table without them knowing how.
+
+    I unpacked, undressed and whatnot and showered. I... indulged my flesh again in the shower. Come on goddamnit. You can do this Chaitu. Resist!
+
+    Dad came back home while I was in the shower. I did leave the door open for him in case he did so he was fine.
+
+    I went through some exercise right after cleaning up. Finished 3 push-ups, 5 knee push-ups, 2 sets of 10 of bicep curls into overhead lifts with
+    the 5kg weights, 2 sets of 10 of jump squats, 10 slanted push-ups, 30s of reverse plank, and some stretches. Took off my shirt to not get it 
+    too sweaty.
+
+    After I finished working out, I helped Dad cook by dicing some vegetables. I showered again to wash off the sweat. And then I started this log.
+
+    Whoo! That took a while but I got here. And now I just really want to hit the bed. Gosh I feel tired. I want more of my hours of the day back.
+    And today felt like such an absolute waste.
+    
+    I need to do some reading for CN, write FLAT notes and solve the homework problems, will be skipping the syllabus pages for OS and CG for now.
+    Don't have to worry about PSQT at the moment. So I guess I'll finish up the CR stuff and call it a day.
+
+Wed Feb 14 23:28:10 IST 2024
+    Finished it. I'm just going to commit-push this and go to sleep.
+    
+    fin.
