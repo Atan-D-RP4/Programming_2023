@@ -1,0 +1,132 @@
+Sat Feb 17 02:07:17 IST 2024
+    Okay, it's very late and a lot happend today so writing it all down right now is not something I can do. So I'm gonna leave it for tomorrow.
+    Just wanted to put this in first though. To say I packed it in at 2:10AM.
+
+Sat Feb 17 12:50:13 IST 2024
+    So yeah, finally got back to this one. Should have done it as soon as I woke up and got on the computer but I got sidetracked by Vim.
+
+    Anyway, the 16th turned out to be a horrible day.
+
+    I woke up at 5:40AM though I thought it was 6:40AM when I checked the clock. Good thing I checked again on the phone. I woke Dad up, brushed my
+    teeth, did all of morning things and hit the shower. I failed to resist the temptation of the pleasure of my flesh.
+
+    Got out quickly enough and toweled off. I had coffee this morning, finally. Breakfast was the eggs that Dad boiled which I cut up and salted. I
+    ate that I ate whilst finishing up the log for yesterday that I hadn't finished it.
+
+    I didn't finish it all the way since I was out of time and had to be off to catch the bus. I got dressed, packed and out of the house.
+
+    I got to the bus stop early. On the ride to campus, I read the new chapter of One Piece which was honestly jam-packed with awesomeness. Then I 
+    checked my forums and stories for updates, read the newsletters I'm subscribed to and checked out a Python packaging tool written in Rust.
+
+    Played some chess and lost, checked out the price of a gaming PC and almost had a stroke and then tried to catch some shut-eye.
+
+    Harsith arrived to the campus almost at the same time as me. But I passed him by because he was talking to one of his bus mates and I did not 
+    want to insert myself into the conversation. Also a pretty nice song was playing in my ears I wanted to enjoy it.
+
+    We met in our Dept. when I stopped to fill up on water. Went to the classroom together and talked with the rest of our friends as they came in,
+    waiting the lecturer to come in. I think I also wrote some FLAT notes that I had a backlog on. I'm not sure whether that's right or not.
+
+    Moving on, the first period of the day was Computer Graphics with Ravi Kumar sir. He finally started on the 1st Unit of the Syllabus. Just gave
+    us a couple of Definitions and dictated some paragraphs on some applications of the subject.
+
+    The next 3 periods were the OS/MPI lab sessions. I went up to check with the lab faculty about the batches division and had the class come up to
+    the floor and separate into their respective labs based on their batches.
+
+    I was in the batch that had MPI, so that's where I went. The MPI faculty, a Mr. Devi Pradeep sir seemed like a chill but thorough professor who
+    took nobody's shit but also gave shit to nobody too. He also seemed to have gotten communication down since he had me immediately add him and 
+    the professor assiting him with that lab into our groups and took my own contact info so that he could stay in touch. I both like and am scared 
+    by him. A pretty nice combo for a teacher if you ask me.
+
+    So he started his session with an introduction of himself and his assiting faculty, another Gayatri Mam. Both of them were from the ECE Dept. by
+    the way. He continued with an overview of what we will be doing during the course of the Semester in that lab course. Told us what tools we 
+    would be using for it, and shared some helpful resources for the subject.
+
+    The faculty had us move to the adjacent classroom so that they could make use of it's projector to show us some basics on how to get the tools 
+    we'd been told about and how to use them. Though not too much of that got done since Pradeep sir was interrupted a lot by phone calls and 
+    Seniors coming in to campaign for the Fest events.
+
+Sat Feb 17 13:49:24 IST 2024
+    Thought I should put a timestamp here. So I did.
+
+    Anyway, once we got done with that, the program he wanted to show us didn't work by the way, we moved back into the lab room. He continued with
+    the class with giving us some rules and guidelines to follow for the lab sessions moving forward and how we would be graded for this course and 
+    then shared some material that wanted us go through along with an essential cheat sheet that we had to carry a hard copy of. 
+
+Sat Feb 17 16:26:20 IST 2024
+    And then a group from the IT Dept. comes by to campaign about their workshop on Data Analysis using Stock Market Data. It includes building 
+    actual projects so I was fully on board with it and registered for it right then and there.
+
+    We suffered through a few more campaigners before we were dismissed for lunch, though that is a little bit harsh to the campaigners. Now this 
+    is where the day takes a turn for the worse.
+
+    On the way back to class, Ravi Kumar sir caught Harsith and I and drafted us into doing some of his typing work. Would have been fine with that
+    if he had something else urgent that he had to see to but he literally sat in front of us watching YouTube shorts while we did his work.
+
+    We wasted 20mins of our lunch period like that. The lunch Dad packed for me spoiled but I only noticed it after I'd already eaten a significant 
+    portion of it. So that upset my stomach a little.
+
+    Since I wasn't gonna eat and there was a lot of time left I did some of my CR work.
+
+    The class after lunch was CN with Gayatri Mam. She assigned some reading and checked our running notes books for if we did the previously 
+    assigned writing. Not much else.
+
+    The next class was supposed to be OS, but Sravanthi Mam was apparently on leave so Bharathi substituted. She just explained the problems she 
+    discussed in her previous class and went around clarifying some doubts. I asked a couple questions and did some more CR work. Went through a 
+    couple more campaigning announcements as well. 
+
+    Gosh so many Senior girls asking for me number! It's really flattering you know. That was sarcasm by the way. I wouldn't have given them number 
+    if hadn't known what for in the first place.
+
+    The next class was MPI with Shiv Kumar sir, and sir just left us to do our own thing since a lot of students had left the class for Fest related
+    activities. I, too, excused myself with permission from him which I got after explaining that I needed to get lunch.
+
+    I went to the usual cafeteria but it turns out that they were completely out of stock and no food on the menu at all. So I walked to the small
+    dinner by the front gate of the campus to eat. Got a chicken fried rice, which in retrospect was not a great idea at all. I ate my way through
+    the plate while reading a Github repo for learing the terminal.
+
+    I was only able to eat half the plate before my stomach started acting up. I left it behind, though I really didn't want to I had no choice,
+    when Harsith and the others came by to get snacks from the store right beside the dinner. Or is it the other way around?
+
+    Whatever. Anyway, I joined them and we took the Medical Blocks path our bus stop to avoid Seniors vendoring their stall tokens. Also, I had
+    Harsith buy me a bottle of Sprite. Least he could after all the shit I buy for him.
+
+Sat Feb 17 16:49:00 IST 2024
+    God damn, it takes so long to write these logs.
+
+    So we were walking and I was out of it because my stomach and really needed to sit down but there was Harsith dragging me around some more. I 
+    just cut of the BS and went and sat in my bus even though it was quite stuffy.
+
+    Some of my bus mates finally made it to the bus but they got off the bus since it was too stuffy for them inside. No one stayed to accompany me.
+
+    I just scrolled some Instagram for a while. And slept on the ride home when they finally started up the busses.
+
+    I walked home feeling mildly better and got in the house with my spare key. Everybody was out still. So I unpacked, undressed and got showered.
+
+    I made myself some coffee and sat down and watched YouTube, checked out a new anime series but I got turned off of it pretty quick. Read a new 
+    chapter of fic on Alternate History. I took a minute lie on the bed and space out for a while too.
+
+    I saw a message by my co-CR asking for the days attendance so I posted that to her.
+
+    Then I started back on that repo that's a guide to learning the shell terminals. Then I got into the Vim tutorial. I don't even remember how I 
+    found that one but I got into it and started experimenting and I could see how this could be a really amazing tool.
+
+    Mom and Dad came back home around 10:00PM and Mom does what she does and goes on to just ruin my mood. She comes home all grumpy and just rails
+    on every little thing. 
+
+    I helped out in the kitchen as Mom instructed whilst calling me useless and unhelpful. Did some other errands. Praneeth came back home finally 
+    a half an hour after they did. I ate dinner while watching YouTube and browsing some forums.
+
+    Updated and restarted the computer since I haven't in a while. Watched a bunch more YouTube videos, read the new chapter of JJK which was wild.
+    A cliffhanger followed a break next week. Just, damn.
+
+    Prepared some labels for gifts as Mom asked me to. Checked some Instagram stuff. Lost a couple games of chess. Tried to do some more 
+    configuration for tmux though I did not get what I wanted. 
+
+    Also I took a rest day on workout since my shoulders really were not cooperating. No progress on Rust either. None any college work as well, 
+    though there is precious little of it yet.
+
+    I gave up on writing the log since it was so late by that time already. Considering it took the whole of today, the 17th, to finish it I think 
+    I made the right choice.
+
+Sat Feb 17 20:15:44 IST 2024
+    fin.
