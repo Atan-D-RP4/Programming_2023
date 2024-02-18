@@ -1,0 +1,76 @@
+Sun Feb 18 00:49:41 IST 2024
+    Today was an interesting day. Not very much so since I stayed home the whole time but considering that it was especially so. You know what? 
+    That's BS. I'm just saying this for lack of any ideas on how to start this log. So let's jus tget on with it. It's getting late anyway and I 
+    want to finish this before going to sleep.
+
+    I learned a lot about the shell and more about Vim today.
+
+    I woke up at, oh, 9:10AM or something like that. I don't remember. I got out of bed, brushed my teeth, did my morning routine. Got on the PC 
+    for while, waiting for Mom to finish with her cleaning up and what not. Checked out some Linux CLI tools. Then I went for a shower. I managed 
+    to resist the temptation of my flesh but only just.
+    
+    I spent the morning finishing the vimtutorial built-in that apparently comes with all Linux Distros. At least I assume it does, since Vim is 
+    available on almost all versions of GNU/Linux OS Distros. Oh I also failed to configure my tmux such that the command history from all windows 
+    and panes is saved and available to me. 
+
+    I also started configuration for basic Vim.
+
+Sun Feb 18 01:30:28 IST 2024    
+    I'm feeling very sleepy right now so I'm just head to bed and get to this tomorrow morning. I swear it won't take all day to finish this like it
+    did the last time I skipped out on it.
+
+Sun Feb 18 09:29:30 IST 2024
+    Okay I'm back. Let's finish this.
+
+    So it's about 12:00AM and I'm here trying to work with tmux and Vim and then Mom has me go out to the other side of the house to help cook 
+    lunch. She then proceeded to trap me there as she had our servants work on cleaning. This is just so infuriatingly frustrating about her.
+
+    So I helped cook lunch, tried to do some exercise but wasn't really in the mood for it. Took a short nap instead. Ate my lunch after I was 
+    finally released to go to the other room. Dad came home from his morning shift, his only one for today. I think he went back out do some errands
+    again and came home sometime later. I don't remember where or when.
+
+    I found out sound mixers on Amazon are expensive. Watched a bunch of YouTube videos, played some chess, checked out an LLM for code suggestions,
+    auto-complete and debugging. 
+
+    I really need to make writing the logs a more incremental thing since I think I've forgotten a bunch of stuff I did after lunch. Probably some 
+    more playing around with tmux and Vim for sure. Who knows about the rest...?
+
+    I do remember Mom being very frustrating when she didn't listen to what I told her about how whatsapp messages work when she wanted to send out 
+    invitations for the housewarming party. She just didn't get it, like she wasn't even listening to what I was saying.
+
+    I read a new chapter of Zenith Of The Stars. It was a slower chapter than usual. Checked out a couple other things.
+
+    Tried to get tmux command history saving to work again. Did not succeed. So I just watched YouTube videos afterwards. Came across this really 
+    cool algorithm for generating prime numbers written by Edsger Dijkstra. I'm going to implement it in Rust.
+
+    Helped with cooking dinner. Mom and Dad made Roti's for themselves but we forgot to cook rice. So I ate dinner quite late. Did some research 
+    on what this new Mojo Language that I was hearing all about. It is apparently a faster Python. My first thought was just that Julia existed.
+
+    It wasn't until I watched a Primeagen video hearing what he had to say about it that I learned that it was actually a superset of Python, that 
+    just has some extra syntax. If it does that, and does it well, and delivers on its promises of a similar run-time speed to systems-level 
+    languages like Rust then it will blow everything else out of the water.
+
+    I also learned that most existing languages and by extension the software built on them do not make efficient use of the hardware they run. 
+    Mostly the concurrency support and features of modern processors. It's because writing code that does that is simply to cumbbersome in the words
+    of the Primeagen himself. And after looking at some code for it, I agree. 
+
+    Mojo has built-in support for that so it's write faster code. It's also built-in a new modern compiler tool-chain called ML-IR which is 
+    supposedly better than the one that most compilers run on now which is the LLVM tool-chain. Both are, however, made or spear-headed by the same 
+    developer, only at different times and levels of experience.
+
+Sun Feb 18 11:08:38 IST 2024
+    Mojo is to Python, what TypeScript is to JavaScript. Existing experts just have to learn a little extra stuff to massively increase the speed 
+    and performance of their code and it's easy to improve upon existing software without running into a Multi-Language problem seamlessly. It's 
+    still a project very much in it's infancy though.
+
+    Also, Tail Call Optimization is very difficult to achieve in Rust due to ownership and borrow rules. The later are also a feature of Mojo 
+    though it does not have the drawback in the former. I checked out some more Linux commands and looked up more about the above and called it 
+    a day afterwards. Went to sleep around 1:20AM.
+
+    It took a significant portion of the day to write the previous days log. I wrote it incrementally over the course of the day.
+    
+    I procrastinated on writing the log again. Did not do a proper workout. No studying of any kind. No communication with friends. But anyway, 
+    that's the 17th. 
+
+Sun Feb 18 11:19:33 IST 2024
+    fin.
