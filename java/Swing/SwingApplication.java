@@ -16,6 +16,7 @@ public class SwingApplication extends JFrame {
         JRadioButton radioButton = new JRadioButton("Radio Me");
         JComboBox<String> comboBox = new JComboBox<>(new String[] {"Option 1", "Option 2", "Option 3"});
         DefaultListModel<String> listModel = new DefaultListModel<>();
+        System.out.println("Running");
         listModel.addElement("Item 1");
         listModel.addElement("Item 2");
         listModel.addElement("Item 3");
@@ -49,6 +50,8 @@ public class SwingApplication extends JFrame {
         setSize(400, 300);
         setLocationRelativeTo(null); // Center the frame
         setVisible(true);
+        System.out.println("Running");
+
     }
 
     public static void main(String[] args)
