@@ -1,0 +1,58 @@
+Thu Feb 29 10:50:51 IST 2024
+    I have to write so many logs today. But I'm home to write them, so silver linings and all that.
+
+    I woke up at 8:45AM today. Brushed my teeth, hydrated, eat honey after 4 days of not eating it. Emptied my bladder, helped Mom with some chores.
+
+    I decided to shower in the afternoon. Dad cooked Upma before leaving for his morning shift at the hospital, so I got a plate of it and sat down
+    to watch some YouTube, read through forums on AH, and some webtoons.
+
+    I settled the matter of the day's attendance for my class as well. Now I've started on the logs. There's so much to write. I don't know if have
+    I the mental energy for it all. And yes, these things take up a lot of mental energy.
+
+    I guess I'll write more of this one later. Should go get to work on those pending logs.
+
+Thu Feb 29 14:21:20 IST 2024
+    Hey! So it's been a little while. I did not in fact start on those pending logs. I watched YouTube, did some coding and played some chess. I 
+    just came out of the shower a couple minutes ago. 
+
+    Just implemented a stack in Rust using it's std::vec implementations. On the first try. That was fun.
+
+Thu Feb 29 20:14:42 IST 2024
+    I watched more YouTube after I wrote the above stuff. Ate some rice and dal with potatoe curry all of which was from takeout Dad brought when
+    he came home after finishing his morning shift. I went through some forums and laid on the bed for a while to relax.
+
+    Decided to take a nap. It was 4:30PM at the time. When I back woke up, the time was 8:00PM. Nice.
+
+    I heated up the milk, made myself a glass coffee and a glass of bourn vita for Mom. I have to go help with some chores now.
+
+    Be right back.  
+
+Thu Feb 29 20:20:34 IST 2024
+    This line is just for the timestamp. Also the last timestamps are off since I didn't do 'setdate' before I used them.
+
+Fri Mar  1 02:07:02 IST 2024
+    It is very late and I want to go to college tomorrow for Fest, so I' try to make this quick.
+
+    I read through the newsletters. A new chapter of a PJO fic came out so I read that while drinking my coffee. Made updates to my .bashrc file.
+ 
+    Diced some vegetables for dinner, watched more YouTube, did some tinkering with git commands. Talked some anime and movies with Bro.
+
+    Ate lunch to more YouTube videos and some browsing of forums. Made a couple additions to my OneNote notes about money management.
+
+    After I finished lunch, I watched a couple more YouTube videos and then went into my workspace to play around with some Rust. I'd some of it 
+    earlier too. Then I wanted autocomplete on my Rust source code, but VSC was being too bothersome so I went the vim route.
+
+    I spent the rest of the time until now figuring that out using ChatGPT. Installing vim pluggins, then realizing I needed a pluggin mangager for
+    them, actually making it all work, updating the .dotfiles repo with git submodules since the pluggins are also git repos. It was fun and very
+    rewarding since I now have formatting, syntax and error highlighting on my Rust source code written in vim. Autocorrect is still a work in 
+    progress. I'll see about it tomorrow.
+
+    I also wrote up the log for the 27th. The 28th is still pending and I'll write it tomorrow. I wanted finish all of February's stuff in 
+    February but better done than not. So tomorrow it is.
+
+    I also want to enumerate goals for the rest of the March month tomorrow. And review the logs for the whole February.
+
+    I think that's about all I want to write for the 29th. Well, plus a couple night hours of the 1st of March. Whatever. So yeah, done.
+
+Fri Mar  1 02:21:13 IST 2024
+    fin.
