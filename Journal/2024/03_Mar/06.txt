@@ -1,0 +1,82 @@
+Wed Mar  6 19:39:28 IST 2024
+	So today turned into a pretty wasted day. I'll explain in a sec.
+
+	I got out of bed very late again today at 6:20AM. I actually woke up at 5:45AM but just couldn't get myself up. Dad had to call me out twice to
+	get me up. I quickly brushed my teeth, drank some water and had a shower. 
+
+	Dad had boiled 2 eggs and heated up the toast he made last night. I ate one of the eggs, put one in the freezer to eat in the evening since I
+	won't be able to finish since it was so late, and had the toast boxed to eat on the bus.
+
+	I packed and readied everything. Crossed over and dressed in yesterday's uniform clothes which I picked out of the used clothes pile, grabbed
+	the keys to the old car and got out.
+
+	I left the car parked by the DRM office today and then walked over to the bus stop. The ride to campus went on as usual, though we had to stop
+	a couple times near the stops since some people were late catching the bus. The driver passing by Ujwal from the main road was pretty funny.
+
+	I spent the ride today playing some chess, eating the boxed toast, reading the new chapter of an awesome ASOIAF fic, and reading newsletters,
+	news articles and reddit threads. I realized the MS Office Suite has no options for Linux. None. Just damn it all.
+
+	Also we were quite late getting to campus. It was almost 8:50AM.
+
+	Now, about why I said today was a waste...
+
+	So yesterday, during the CRT session, a Senior came to announce a workshop the next day.
+
+Wed Mar  6 20:20:38 IST 2024
+	Okay, so I finally set the textwidth to work properly in my .vimrc. Which is where I was for the past while.
+	
+	Moving on. Where was I? 
+
+	Yeah, workshop. It was going to be on Competitive Programming. Harsith and I signed up for it that afternoon since we were both interested in
+	the topic.
+
+	So this morning, I attended the workshop session, instead of classes, in the ECE building. They didn't start until almost 9:30AM. And most of
+	what they talked about, I already knew. Heck, some of the stuff they showed us I could do better on my WSL environment. 
+
+	I did learn of some new problems and algorithms though. Nothing I wouldn't have stumbled onto on my own as I continued with LeetCode but it was
+	something at least.
+
+Wed Mar  6 23:52:58 IST 2024
+	Yeah, so the day was mostly a waste. Our group had lunch back in our classroom. I joined the workshop session in the afternoon again to see if
+	any of it would be useful but it really wasn't.
+
+	I mostly just talked about technical stuff with my friends. Vamsi, one of the lateral entry students in our class, showed me some cool
+	linux-on-mobile stuff. I installed WSL on Srinu's laptop though he wouldn't let me show him some of the features. 
+
+	The rest of the session we spent talking about coding and taking the piss out of each other.
+
+	Also, the Internet down there was so annoying. I ran out of data on my call plan so I couldn't use that either. It was so frustrating.
+
+	Nothing much else to say there. Around 3:50PM the session fully concluded and we left the place to catch the busses. I talked to Karthikeya
+	from B section a little when I ran into him.
+
+	Also Bhavya finally answered my call today. She didn't sound too well so I didn't give her any flak for that. She didn't come to college today
+	apparently. When I enquired as to why, and why she sounded so depressed, she launched into a stroy of how one of her close friends proposed to
+	a boy and then got stood up by him after he invited her to talk.
+
+	That was not the full story there. The call cut of there due to a poor connection on my end. I'll find out more tomorrow.
+
+Thu Mar  7 00:05:42 IST 2024
+	Our bus started off late. I did not use my phone much at all since I was out of mobile data and charge. So I just fell asleep with my liked
+	songs playlist on a decent blare.
+
+	After getting off the bus, I walked to the car and drove home. Decided to get it re-fueled tomorrow after I get Mom to wire me some money.
+
+	I got home, unpacked and undressed. Got Mom to let me clean my phone and bring it in inside. Showered. Did not give in to my base urges.
+
+	I set the milk to boil and heated up the boiled egg I left in freezer in the morning. Cut it, seasoned it some and ate it. Browsed some threads
+	on AH. Made myself a shot of coffee and Mom a glass a bourn vita.
+
+	Read the updates that came out for a couple of fics. Did the beginner level coding contest on CodeChef until 10:00PM. Watched some YouTube
+	videos. Scrolled Instagram on my phone for a while.
+
+	Ate dinner, that I did not help with in any capacity today, whilst watching a Primeagen reaction video. More YouTube. Played some of those old
+	Sonic flash games. Solved a couple chess puzzles. Read some more stuff on AH.
+
+	And then I got on to finish this log. Which it now is. And now I'm gonna go to sleep. 
+
+	I need to finish up earlier damn it. And do more productive and healthy things. Like finish the log for the 1st start on projects or workout 
+	daily or dance or learn the guitar like I've wanted to for years now.
+
+Thu Mar  7 00:19:17 IST 2024
+	Anyway, that's it. Goodnight and fin.
