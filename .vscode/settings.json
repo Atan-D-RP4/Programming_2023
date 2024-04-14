@@ -8,5 +8,6 @@
         "curses.h": "c",
         "xlib.h": "c",
         "x.h": "c"
-    }
+    },
+    "cmake.configureOnOpen": false
 }

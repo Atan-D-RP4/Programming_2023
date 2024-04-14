@@ -1,0 +1,109 @@
+2
+Learning C is fun.
+Learning pointers is more fun.It is good to have pointers.
+3
+1 2
+2
+5
+6
+2 1 1
+4
+3 1 1 1
+
+
+
+    word *words = NULL;
+    sentence *sentences = NULL;
+    paragraph *paragraphs = NULL;
+    int words_count = 0, words_in_para = 0, sentences_count = 0, paragraphs_count = 0;
+
+    for (int i = 0, w = 0; i <= strlen(text); i++, w++)
+    {
+        // Check for space, period, or newline
+        if (text[i] == ' ' || text[i] == '.' || text[i] == '\n' || text[i] == '\0')
+        {
+
+            // Allocate memory for the current word
+            if (text[i] == '.')
+            char *string = malloc((w + 1) * sizeof(char));
+            string[w] = '\0';
+
+            // Copy characters to the current word
+            for (int j = 0; j < w; j++)
+                string[j] = text[i - w + j];
+
+            // Allocate memory for the words array and copy the current word
+            if (words == NULL)
+                words = malloc((words_count + 1) * sizeof(word));
+            else
+                words = realloc(words, (words_count + 1) * sizeof(word));
+
+            words[words_count] = malloc((w + 1) * sizeof(char));
+            strcpy(words[words_count++], string);
+            w = 0;  // Reset word length
+        }
+
+        // Check for a period to end a sentence
+        if (text[i] == '.' || text[i] == '\0')
+        {
+            // Allocate memory for the sentences array and copy the words
+            if (sentences == NULL)
+                sentences = malloc((sentences_count + 1) * sizeof(sentence));
+            else
+                sentences = realloc(sentences, (sentences_count + 1) * sizeof(sentence));
+
+            sentences[sentences_count] = malloc(words_count * sizeof(word));
+
+            // Copy words to the current sentence and free memory for individual words
+            for (int j = 0; j < words_count; j++)
+            {
+                sentences[sentences_count][j] = malloc((strlen(words[j]) + 1) * sizeof(char));
+                strcpy(sentences[sentences_count][j], words[j]);
+                print_word(sentences[sentences_count][j]);
+                free(words[j]);
+            }
+
+            print_sentence(sentences[sentences_count]);
+            sentences_count++;
+            words_in_para += words_count;
+            words_count = 0;
+        }
+
+        // Check for a newline to end a paragraph
+        if (text[i] == '\n' || text[i] == '\0')
+        {
+            // Allocate memory for the paragraphs array and copy the sentences
+            if (paragraphs == NULL)
+                paragraphs = malloc((paragraphs_count + 1) * sizeof(paragraph));
+            else
+                paragraphs = realloc(paragraphs, (paragraphs_count + 1) * sizeof(paragraph));
+
+            paragraphs[paragraphs_count] = malloc(sentences_count * sizeof(sentence));
+
+            // Copy sentences to the current paragraph
+            for (int j = 0; j < sentences_count; j++)
+            {
+                paragraphs[paragraphs_count][j] = malloc(words_count * sizeof(word));
+
+                for (int k = 0; k < words_in_para; k++)
+                {
+                    paragraphs[paragraphs_count][j][k] = malloc((strlen(sentences[j][k]) + 1) * sizeof(char));
+                    strcpy(paragraphs[paragraphs_count][j][k], sentences[j][k]);
+                    free(sentences[j][k]);
+                }
+                free(sentences[j]);
+            }
+
+            print_paragraph(paragraphs[paragraphs_count]);
+            paragraphs_count++;
+            sentences_count = 0;
+            words_in_para = 0;
+        }
+    }
+
+    // Free memory for the remaining words, sentences, and the words array
+    free(words);
+    free(sentences);
+
+    // Return the paragraphs array
+    return paragraphs;
