@@ -44,14 +44,14 @@ def adjust_grid(positions):
 
         if len(neighbors) in [2, 3]:
             new_positions.add(position)
-    
+
     for position in all_neighbors:
         neighbors = get_neighbors(position)
         neighbors = list(filter(lambda x: x in positions, neighbors))
 
         if len(neighbors) == 3:
             new_positions.add(position)
-    
+
     return new_positions
 
 def get_neighbors(pos):
@@ -67,7 +67,7 @@ def get_neighbors(pos):
                 continue
 
             neighbors.append((x + dx, y + dy))
-    
+
     return neighbors
 
 def main():
@@ -82,7 +82,7 @@ def main():
 
         if playing:
             count += 1
-        
+
         if count >= update_freq:
             count = 0
             positions = adjust_grid(positions)
@@ -92,7 +92,7 @@ def main():
         for event in pygame.event.get():
             if event.type == pygame.QUIT:
                 running = False
-            
+
             if event.type == pygame.MOUSEBUTTONDOWN:
                 x, y = pygame.mouse.get_pos()
                 col = x // TILE_SIZE
@@ -103,19 +103,19 @@ def main():
                     positions.remove(pos)
                 else:
                     positions.add(pos)
-            
+
             if event.type == pygame.KEYDOWN:
                 if event.key == pygame.K_SPACE:
                     playing = not playing
-                
+
                 if event.key == pygame.K_c:
                     positions = set()
                     playing = False
                     count = 0
-                
+
                 if event.key == pygame.K_g:
                     positions = gen(random.randrange(4, 10) * GRID_WIDTH)
-    
+
         screen.fill(GREY)
         draw_grid(positions)
         pygame.display.update()
