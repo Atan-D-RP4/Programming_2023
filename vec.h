@@ -24,29 +24,34 @@ typedef struct {
     Allocator* a;
 } Vec_Header;
 
+void *vec_init(size_t item_size, size_t capacity, Allocator *a);
+void *vec_ensure_capacity(void *a, size_t item_count, size_t item_size);
+void vec_free(void *a);
+
 #ifdef VEC_IMPLEMENTATION
 
 #define ARRAY_INITIAL_CAPACITY 16
+
+#ifndef CUSTOM_ALLOCATOR
+    void *my_alloc(size_t bytes, void *context) {
+        (void)context;
+        return malloc(bytes);
+    }
+
+    void *my_free(size_t bytes, void *ptr, void *context) {
+        (void)ptr;
+        (void)context;
+        free(ptr);
+        return NULL;
+    }
+    Allocator my_allocator = {my_alloc, my_free, 0};
+#endif
+
 
 #define Vec(T, a) vec_init(sizeof(T), ARRAY_INITIAL_CAPACITY, a)
 #define vec_header(a) ((Vec_Header *)(a) - 1)
 #define vec_length(a) (vec_header(a)->length)
 #define vec_capacity(a) (vec_header(a)->capacity)
-
-void *vec_init(size_t item_size, size_t capacity, Allocator *a);
-void *vec_ensure_capacity(void *a, size_t item_count, size_t item_size);
-
-// void *my_alloc(size_t bytes, void *context) {
-//     (void)context;
-//     return malloc(bytes);
-// }
-//
-// void *my_free(size_t bytes, void *ptr, void *context) {
-//     (void)ptr; (void)context;
-//     free(ptr);
-// }
-//
-// Allocator my_allocator = {my_alloc, my_free, 0};
 
 void *vec_init(size_t item_size, size_t capacity, Allocator *a) {
     size_t header_size = item_size * capacity + sizeof(Vec_Header);
@@ -99,6 +104,12 @@ void *vec_ensure_capacity(void *a, size_t item_count, size_t item_size) {
     return h;
 }
 
+void vec_free(void *a) {
+    Vec_Header *h = vec_header(a);
+    size_t size = sizeof(Vec_Header) + h->capacity * h->padding;
+    h->a->free(size, h, h->a->context);
+}
+
 #define vec_append(a, v) ( \
     (a) = vec_ensure_capacity(a, 1, sizeof(v)), \
     (a)[vec_header(a)->length] = (v), \
@@ -123,6 +134,47 @@ void *vec_ensure_capacity(void *a, size_t item_count, size_t item_size) {
     typeof(*(a)) removed_value = (a)[vec_header(a)->length - 1]; \
     vec_header(a)->length -= 1; \
     removed_value; \
+})
+
+#define vec_clear(a) ({ \
+    vec_header(a)->length = 0; \
+})
+
+#define vec_foreach(a, v) \
+    for (size_t i = 0; i < vec_header(a)->length && ((v) = (a)[i], 1); ++i)
+
+#define vec_foreach_ptr(a, v) \
+    for (size_t i = 0; i < vec_header(a)->length && ((v) = &(a)[i], 1); ++i)
+
+#define vec_max(a) ({ \
+    typeof(*(a)) max = (a)[0]; \
+    for (size_t i = 1; i < vec_header(a)->length; ++i) { \
+        if ((a)[i] > max) { \
+            max = (a)[i]; \
+        } \
+    } \
+    max; \
+})
+
+#define vec_min(a) ({ \
+    typeof(*(a)) min = (a)[0]; \
+    for (size_t i = 1; i < vec_header(a)->length; ++i) { \
+        if ((a)[i] < min) { \
+            min = (a)[i]; \
+        } \
+    } \
+    min; \
+})
+
+#define max(a, ...) ({ \
+    typeof(a) args[] = {a, __VA_ARGS__}; \
+    typeof(a) max = args[0]; \
+    for (size_t i = 1; i < sizeof(args) / sizeof(args[0]); ++i) { \
+        if (args[i] > max) { \
+            max = args[i]; \
+        } \
+    } \
+    max; \
 })
 
 #endif // VEC_IMPLEMENTATION

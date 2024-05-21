@@ -8,7 +8,7 @@ public:
     int val;
     ListNode *next;
 
-    ListNode(int val) : val(valadd), next(nullptr) {}
+    ListNode(int val) : val(val), next(nullptr) {}
     ListNode(int val, ListNode *next) : val(val), next(next) {}
 };
 

@@ -1,38 +1,15 @@
 #include <stdio.h>
 
+#define ARR_LEN(arr) (sizeof(arr) / sizeof(arr[0]))
+
 int main() {
-	
-	int n = 10;
 
-	for (int i = n / 2; i < n; i += 2) {
-		for (int j = 1; j < n - i; j += 2) {
-			printf(" ");
+	// Draw a heart
+	for (float y = 1.5f; y > -1.5f; y -= 0.1f) {
+		for (float x = -1.5f; x < 1.5f; x += 0.05f) {
+			float a = x * x + y * y - 1;
+			putchar(a * a * a - x * x * y * y * y <= 0.0f ? '*' : ' ');
 		}
-
-		for (int j = 1; j <= i; j++) {
-			printf("*");
-		}
-
-		for (int j = 1; j <= n - i; j++) {
-			printf(" ");
-		}
-
-		for (int j = 1; j <= i; j++) {
-			printf("*");
-		}
-
-		printf("\n");
-	}
-
-	for (int i = n; i > 0; i--) {
-		for (int j = 0; j < n - i; j++) {
-			printf(" ");
-		}
-
-		for (int j = 1; j < (i * 2); j++) {
-			printf("*");
-		}
-
-		printf("\n");
+		putchar('\n');
 	}
 }

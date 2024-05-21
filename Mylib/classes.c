@@ -1,5 +1,7 @@
+#include <stddef.h>
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
 
 // This thing involves a lot of Memory Overhead
 
@@ -72,6 +74,8 @@ void destroyPerson(struct Person *person) {
     // Free the Person object itself
     free(person);
 }
+
+
 
 int main() {
     // Create a new Person object

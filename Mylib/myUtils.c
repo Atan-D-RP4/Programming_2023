@@ -8,41 +8,25 @@
 #include <limits.h>
 
 
-typedef struct list
+typedef struct ListNodeL
 {
     uint8_t data;
     struct list* link;
-} list;
+} ListNode;
 
 
 char* get_string(char* s);
 char* strrev(char* string, int size);
 unsigned int bit_sum(int a, int b);
-int bit_diff(int x, int y); 
+int bit_diff(int x, int y);
 int bit_product(int a, int b);
 int bit_divide(int dividend, int divisor);
 bool check_prime(int num);
 void show_bin_num(int a);
 int bin_search(int *array, int left, int right, int key);
 int* arraySum(int* arr1, int* arr2, int size);
-bool checkLoop(list *start);
+bool checkLoop(ListNode *start);
 void swap(int* a, int* b);
-
-
-
-int main()
-{
-    int a = 10, b = 12, result = 0;
-    char* string = get_string("What is your name: \n");
-    printf("Hello %s\n%s\n\n\n\n", string, strrev(string, strlen(string)));
-    result = bit_sum(a, b);
-    printf("Sum of %d and %d is %d\n", a, b, result);
-    result = bit_product(a, b);
-    show_bin_num(result);
-    printf("Product of %d and %d is %d\n", a, b, result);
-
-	return 0;
-}
 
 char* get_string(char* s)
 {
@@ -95,12 +79,23 @@ char* get_string(char* s)
 
 char* strrev(char* string, int size)
 {
-        char* rev_string = (char*)malloc(sizeof(char) * size);
+    char* rev_string = (char*)malloc(sizeof(char) * size);
 
-        for (int i = size - 1, j = 0; i >= 0 && j < size;)
-                rev_string[j++] = string[i--];
-        rev_string[size] = '\0';
-        return rev_string;
+    for (int i = size - 1, j = 0; i >= 0 && j < size;)
+        rev_string[j++] = string[i--];
+    rev_string[size] = '\0';
+    return rev_string;
+}
+
+int rev(int num)
+{
+    int rev_num = 0;
+    while (num > 0)
+    {
+        rev_num = rev_num * 10 + num % 10;
+        num /= 10;
+    }
+    return rev_num;
 }
 
 unsigned int bit_sum(int a, int b)
@@ -117,10 +112,10 @@ int bit_diff(int x, int y) {
     while (y != 0) {
         // Borrow contains common set bits of y and unset bits of x
         int borrow = (~x) & y;
-        
+
         // Subtraction of bits of x and y where at least one of the bits is not set
         x = x ^ y;
-        
+
         // Borrow is shifted by one so that subtracting it from x gives the required difference
         y = borrow << 1;
     }
@@ -250,10 +245,10 @@ int* arraySum(int* arr1, int* arr2, int size)
     return arrSum;
 }
 
-bool checkLoop(list *start)
+bool checkLoop(ListNode *start)
 {
     // Awesome debug function for Linked Lists
-    node *slow, *fast;
+    ListNode *slow, *fast;
     slow = fast = start;
     while (fast != NULL && fast->link != NULL)
     {
