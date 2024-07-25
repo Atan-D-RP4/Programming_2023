@@ -1,4 +1,4 @@
-
+#include <stddef.h>
 #include <stdio.h>
 #include <ctype.h>
 #include <stdlib.h>
@@ -7,26 +7,68 @@
 #include <stdbool.h>
 #include <limits.h>
 
+#define typeof(x) _Generic((x), \
+	int: "int", 		\
+	float: "float", 	\
+	double: "double", 	\
+	char: "char", 		\
+	bool: "bool", 		\
+	default: "other") 	\
 
-typedef struct ListNodeL
+#define max(a, ...) ({ \
+    typeof(a) args[] = {a, __VA_ARGS__}; \
+    typeof(a) max = args[0]; \
+    for (size_t i = 1; i < sizeof(args) / sizeof(args[0]); ++i) { \
+        if (args[i] > max) { \
+            max = args[i]; \
+        } \
+    } \
+    max; \
+})
+
+#define min(a, ...) ({ \
+    typeof(a) args[] = {a, __VA_ARGS__}; \
+    typeof(a) min = args[0]; \
+    for (size_t i = 1; i < sizeof(args) / sizeof(args[0]); ++i) { \
+        if (args[i] < min) { \
+            min = args[i]; \
+        } \
+    } \
+    min; \
+})
+
+typedef struct ListNode
 {
     uint8_t data;
-    struct list* link;
+    struct ListNode* link;
 } ListNode;
 
+typedef struct String {
+	char* str;
+	size_t count;
+} String;
 
-char* get_string(char* s);
-char* strrev(char* string, int size);
-unsigned int bit_sum(int a, int b);
-int bit_diff(int x, int y);
-int bit_product(int a, int b);
-int bit_divide(int dividend, int divisor);
-bool check_prime(int num);
-void show_bin_num(int a);
-int bin_search(int *array, int left, int right, int key);
-int* arraySum(int* arr1, int* arr2, int size);
-bool checkLoop(ListNode *start);
 void swap(int* a, int* b);
+bool checkLoop(ListNode *start);
+int* arraySum(int* arr1, int* arr2, int size);
+int bin_search(int *array, int left, int right, int key);
+void show_bin_num(int a);
+bool check_prime(int num);
+int bit_divide(int dividend, int divisor);
+int bit_product(int a, int b);
+int bit_diff(int x, int y);
+unsigned int bit_sum(int a, int b);
+char* strrev(char* string, int size);
+char* get_string(char* s);
+int BinomialCoefficient(int n, int r);
+
+int BinomialCoefficient(int n, int r) {
+	if (n < r || r < 0 || n < 0)
+		return -1;
+
+	if (r == 0 || r == n || n == 0) return 1;
+		return BinomialCoefficient(n - 1, r - 1) + BinomialCoefficient(n - 1, r);
+}
 
 char* get_string(char* s)
 {

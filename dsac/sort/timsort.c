@@ -100,7 +100,7 @@ int usage(int argc, char* argv[])
 {
     if (argc != 2)
     {
-        printf("Usage: ./merge_sort [No.of elements(int)]\n");
+        printf("Usage: ./timsort [No.of elements(int)]\n");
         return 1;
     }
     return 0;
