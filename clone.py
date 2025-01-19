@@ -1,5 +1,6 @@
 import os
 
+
 def main():
     file_name = os.path.basename(__file__)
     with open(file_name, "r") as f:
@@ -14,5 +15,5 @@ def main():
         f.write(file)
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()

@@ -7,6 +7,7 @@
 #include <ctype.h>
 #include <gmp.h>
 #include <time.h>
+#include <regex.h>
 
 #include <immintrin.h>
 
@@ -14,6 +15,29 @@ long limit, i = 0;
 
 int main(int argc, char *argv[])
 {
+
+	// Create regex for url validation:
+	regex_t regex;
+	int reti;
+	char msgbuf[100];
+
+	reti = regcomp(&regex, "^[0-9]+$", 0);
+	if (reti) {
+		fprintf(stderr, "Could not compile regex\n");
+		exit(1);
+	}
+
+	// Execute regex:
+	reti = regexec(&regex, argv[1], 0, NULL, 0);
+	if (!reti) {
+		puts("Match");
+	} else if (reti == REG_NOMATCH) {
+		puts("No match");
+	} else {
+		regerror(reti, &regex, msgbuf, sizeof(msgbuf));
+		fprintf(stderr, "Regex match failed: %s\n", msgbuf);
+		exit(1);
+	}
 
 	// Get User Input
 	if (argc != 2)

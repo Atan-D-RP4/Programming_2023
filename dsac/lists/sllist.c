@@ -9,8 +9,7 @@
 #include <string.h>
 #include <strings.h>
 
-typedef struct node
-{
+typedef struct node {
     int data;
     struct node *link;
 } node;

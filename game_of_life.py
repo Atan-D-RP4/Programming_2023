@@ -1,7 +1,6 @@
 import time
 import pygame
 import numpy as np
-import random
 
 COLOR_BG = (10, 10, 10)
 COLOR_GRID = (40, 40, 40)
@@ -10,12 +9,13 @@ COLOR_ALIVE_NEXT = (255, 255, 255)
 CELL_SIZE = 15
 FPS = 10
 
+
 def update(screen, cells, size, with_progress=False):
     updated_cells = np.zeros((cells.shape[0], cells.shape[1]))
     padded_cells = np.pad(cells, 1, mode="wrap")
 
     for row, col in np.ndindex(cells.shape):
-        neighbors = padded_cells[row:row+3, col:col+3]
+        neighbors = padded_cells[row : row + 3, col : col + 3]
         alive = np.sum(neighbors) - padded_cells[row + 1, col + 1]
 
         color = COLOR_BG if cells[row, col] == 0 else COLOR_ALIVE_NEXT
@@ -37,6 +37,7 @@ def update(screen, cells, size, with_progress=False):
         pygame.draw.rect(screen, color, (col * size, row * size, size - 1, size - 1))
 
     return updated_cells
+
 
 def main() -> None:
     pygame.init()
@@ -80,23 +81,22 @@ def main() -> None:
                     pygame.display.update()
 
             if pygame.mouse.get_pressed()[0]:
-                    pos = pygame.mouse.get_pos()
+                pos = pygame.mouse.get_pos()
 
-                    if cells[pos[1] // CELL_SIZE, pos[0] // CELL_SIZE] == 1:
-                        cells[pos[1] // CELL_SIZE, pos[0] // CELL_SIZE] = 0
-                    else:
-                        cells[pos[1] // CELL_SIZE, pos[0] // CELL_SIZE] = 1
-                    time.sleep(0.1)
-                    update(screen, cells, CELL_SIZE)
-                    pygame.display.update()
-
+                if cells[pos[1] // CELL_SIZE, pos[0] // CELL_SIZE] == 1:
+                    cells[pos[1] // CELL_SIZE, pos[0] // CELL_SIZE] = 0
+                else:
+                    cells[pos[1] // CELL_SIZE, pos[0] // CELL_SIZE] = 1
+                time.sleep(0.1)
+                update(screen, cells, CELL_SIZE)
+                pygame.display.update()
 
         if running:
             cells = update(screen, cells, CELL_SIZE)
             pygame.display.update()
 
-
     pygame.quit()
+
 
 if __name__ == "__main__":
     main()

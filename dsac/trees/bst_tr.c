@@ -10,6 +10,16 @@ typedef struct node
 }
 node;
 
+void traverseIn(node* root);
+void traversePre(node* root);
+void traversePost(node* root);
+node* insert(node* root, int data);
+node* constructBST(int data[], int size);
+node* search(node* root, int key);
+void search1(node* root, int key);
+node* delete(node* root, int key);
+void delete_all(node* root);
+
 void traverseIn(node* root)
 {
     if (root == NULL)

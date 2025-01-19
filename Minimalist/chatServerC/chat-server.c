@@ -28,13 +28,13 @@ int main()
         close(sockFD);
         return 1;
     }
-        
+
     if (listen(sockFD, 10) < 0); // Listening for incoming connections.
-    {   
+    {
         fprintf(stderr, "Listen Failed! errorno: %d (%s)\n", errno, strerror(errno));
     }
-    
     int clientFD = accept(sockFD, NULL, NULL);
+
     if (clientFD == -1)
     {
         fprintf(stderr, "Client Accepting Failed! errorno: %d (%s)\n", errno, strerror(errno));

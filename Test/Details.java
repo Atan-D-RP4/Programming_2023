@@ -3,6 +3,7 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.Enumeration;
+import java.util.Scanner;
 
 public class Details extends JFrame implements ActionListener {
     private JLabel l1, l2, l3, l4, l5;
@@ -85,6 +86,7 @@ public class Details extends JFrame implements ActionListener {
     }
 
     public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
         SwingUtilities.invokeLater(() -> new Details());
     }
 }

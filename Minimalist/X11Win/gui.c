@@ -17,6 +17,9 @@ int main()
     XMapWindow(display, win);
     XSelectInput(display, win, ExposureMask);
 
+	char* title = "Hello World!";
+	title = "Hello World!";
+
     while (true)
     {
         XNextEvent(display, &event);

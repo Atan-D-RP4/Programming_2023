@@ -5,6 +5,8 @@ data = [
     {'name': 'Charlie', 'AGATC': '3', 'AATG': '2', 'TATC': '5'}
 ]
 
+print(dir(data))
+
 # Extract the column names from the first row
 column_names = list(data[0].keys())
 

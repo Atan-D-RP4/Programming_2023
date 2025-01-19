@@ -11,5 +11,6 @@ def main():
     y = [i**2 for i in x]
     plot(x, y)
 
+
 if __name__ == '__main__':
     main()
