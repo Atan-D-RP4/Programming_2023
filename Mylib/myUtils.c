@@ -6,6 +6,10 @@
 #include <stdlib.h>
 #include <string.h>
 
+#define ARR_SHIFT(xs, xs_sz)                                                   \
+  (xs_sz <= 0 ? fprintf(stderr, "%s:%d: OUT OF BOUNDS\n", __FILE__, __LINE__), \
+   ""         : (--xs_sz, *xs++))
+
 #define typeof(x)                                                              \
   _Generic((x),                                                                \
       int: "int",                                                              \
